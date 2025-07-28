@@ -1,0 +1,1 @@
+The .c files in core (this folder) each correspond to an object file compiled to bin/objects

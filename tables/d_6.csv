@@ -1,0 +1,1851 @@
+t,n,short source,long source
+0, 0, ID, ID($0$)
+1, 1, ID, ID($1$)
+2, 2, ID, ID($2$)
+3, 3, ID, ID($3$)
+4, 4, ID, ID($4$)
+5, 5, ID, ID($5$)
+6, 6, ID, ID($6$)
+7, 7, ID, ID($7$)
+8, 8, ID, ID($8$)
+9, 9, ID, ID($9$)
+10, 10, ID, ID($10$)
+11, 11, ID, ID($11$)
+12, 12, ID, ID($12$)
+13, 13, ID, ID($13$)
+14, 14, ID, ID($14$)
+15, 15, ID, ID($15$)
+16, 16, ID, ID($16$)
+17, 17, ID, ID($17$)
+18, 18, ID, ID($18$)
+19, 19, ID, ID($19$)
+20, 20, ID, ID($20$)
+21, 21, ID, ID($21$)
+22, 22, ID, ID($22$)
+23, 23, ID, ID($23$)
+24, 24, ID, ID($24$)
+25, 25, ID, ID($25$)
+26, 26, ID, ID($26$)
+27, 27, ID, ID($27$)
+28, 28, ID, ID($28$)
+29, 29, ID, ID($29$)
+30, 30, ID, ID($30$)
+31, 31, ID, ID($31$)
+32, 32, ID, ID($32$)
+33, 33, ID, ID($33$)
+34, 34, ID, ID($34$)
+35, 35, ID, ID($35$)
+36, 36, ID, ID($36$)
+37, 37, ID, ID($37$)
+38, 38, ID, ID($38$)
+39, 39, ID, ID($39$)
+40, 40, ID, ID($40$)
+41, 41, ID, ID($41$)
+42, 42, ID, ID($42$)
+43, 43, ID, ID($43$)
+44, 44, ID, ID($44$)
+45, 45, ID, ID($45$)
+46, 46, ID, ID($46$)
+47, 47, ID, ID($47$)
+48, 48, ID, ID($48$)
+49, 49, ID, ID($49$)
+50, 50, ID, ID($50$)
+51, 51, ID, ID($51$)
+52, 52, ID, ID($52$)
+53, 53, ID, ID($53$)
+54, 54, ID, ID($54$)
+55, 55, ID, ID($55$)
+56, 64, Reed-Solomon, RS($2^{3}$,$2$,$7$)
+57, 65, Extension by one, Extension by one of $56$
+58, 66, Extension by one, Extension by one of $57$
+59, 67, Extension by one, Extension by one of $58$
+60, 68, Extension by one, Extension by one of $59$
+61, 69, Extension by one, Extension by one of $60$
+62, 70, Extension by one, Extension by one of $61$
+63, 81, Reed-Solomon, RS($3^{2}$,$2$,$7$)
+64, 82, Extension by one, Extension by one of $63$
+65, 83, Extension by one, Extension by one of $64$
+66, 84, Extension by one, Extension by one of $65$
+67, 85, Extension by one, Extension by one of $66$
+68, 86, Extension by one, Extension by one of $67$
+69, 87, Extension by one, Extension by one of $68$
+70, 88, Extension by one, Extension by one of $69$
+71, 89, Extension by one, Extension by one of $70$
+72, 90, Extension by one, Extension by one of $71$
+73, 91, Extension by one, Extension by one of $72$
+74, 92, Extension by one, Extension by one of $73$
+75, 93, Extension by one, Extension by one of $74$
+76, 94, Extension by one, Extension by one of $75$
+77, 121, Reed-Solomon, RS($11^{1}$,$2$,$7$)
+78, 122, Extension by one, Extension by one of $77$
+79, 123, Extension by one, Extension by one of $78$
+80, 124, Extension by one, Extension by one of $79$
+81, 125, Extension by one, Extension by one of $80$
+82, 126, Extension by one, Extension by one of $81$
+83, 127, Extension by one, Extension by one of $82$
+84, 128, Extension by one, Extension by one of $83$
+85, 129, Extension by one, Extension by one of $84$
+86, 130, Extension by one, Extension by one of $85$
+87, 131, Extension by one, Extension by one of $86$
+88, 132, Extension by one, Extension by one of $87$
+89, 133, Extension by one, Extension by one of $88$
+90, 134, Extension by one, Extension by one of $89$
+91, 169, Reed-Solomon, RS($13^{1}$,$2$,$7$)
+92, 170, Extension by one, Extension by one of $91$
+93, 171, Extension by one, Extension by one of $92$
+94, 172, Extension by one, Extension by one of $93$
+95, 173, Extension by one, Extension by one of $94$
+96, 174, Extension by one, Extension by one of $95$
+97, 175, Extension by one, Extension by one of $96$
+98, 176, Extension by one, Extension by one of $97$
+99, 177, Extension by one, Extension by one of $98$
+100, 178, Extension by one, Extension by one of $99$
+101, 179, Extension by one, Extension by one of $100$
+102, 180, Extension by one, Extension by one of $101$
+103, 181, Extension by one, Extension by one of $102$
+104, 182, Extension by one, Extension by one of $103$
+105, 183, Extension by one, Extension by one of $104$
+106, 184, Extension by one, Extension by one of $105$
+107, 185, Extension by one, Extension by one of $106$
+108, 186, Extension by one, Extension by one of $107$
+109, 187, Extension by one, Extension by one of $108$
+110, 188, Extension by one, Extension by one of $109$
+111, 189, Extension by one, Extension by one of $110$
+112, 256, Reed-Solomon, RS($2^{4}$,$2$,$7$)
+113, 257, Extension by one, Extension by one of $112$
+114, 258, Extension by one, Extension by one of $113$
+115, 259, Extension by one, Extension by one of $114$
+116, 260, Extension by one, Extension by one of $115$
+117, 261, Extension by one, Extension by one of $116$
+118, 262, Extension by one, Extension by one of $117$
+119, 289, Reed-Solomon, RS($17^{1}$,$2$,$7$)
+120, 290, Extension by one, Extension by one of $119$
+121, 291, Extension by one, Extension by one of $120$
+122, 292, Extension by one, Extension by one of $121$
+123, 293, Extension by one, Extension by one of $122$
+124, 294, Extension by one, Extension by one of $123$
+125, 295, Extension by one, Extension by one of $124$
+126, 296, Extension by one, Extension by one of $125$
+127, 297, Extension by one, Extension by one of $126$
+128, 298, Extension by one, Extension by one of $127$
+129, 299, Extension by one, Extension by one of $128$
+130, 300, Extension by one, Extension by one of $129$
+131, 301, Extension by one, Extension by one of $130$
+132, 302, Extension by one, Extension by one of $131$
+133, 361, Reed-Solomon, RS($19^{1}$,$2$,$7$)
+134, 362, Extension by one, Extension by one of $133$
+135, 363, Extension by one, Extension by one of $134$
+136, 364, Extension by one, Extension by one of $135$
+137, 365, Extension by one, Extension by one of $136$
+138, 366, Extension by one, Extension by one of $137$
+139, 367, Extension by one, Extension by one of $138$
+140, 368, Extension by one, Extension by one of $139$
+141, 369, Extension by one, Extension by one of $140$
+142, 370, Extension by one, Extension by one of $141$
+143, 371, Extension by one, Extension by one of $142$
+144, 372, Extension by one, Extension by one of $143$
+145, 373, Extension by one, Extension by one of $144$
+146, 374, Extension by one, Extension by one of $145$
+147, 375, Extension by one, Extension by one of $146$
+148, 376, Extension by one, Extension by one of $147$
+149, 377, Extension by one, Extension by one of $148$
+150, 378, Extension by one, Extension by one of $149$
+151, 379, Extension by one, Extension by one of $150$
+152, 380, Extension by one, Extension by one of $151$
+153, 381, Extension by one, Extension by one of $152$
+154, 382, Extension by one, Extension by one of $153$
+155, 383, Extension by one, Extension by one of $154$
+156, 384, Extension by one, Extension by one of $155$
+157, 385, Extension by one, Extension by one of $156$
+158, 386, Extension by one, Extension by one of $157$
+159, 387, Extension by one, Extension by one of $158$
+160, 388, Extension by one, Extension by one of $159$
+161, 529, Reed-Solomon, RS($23^{1}$,$2$,$7$)
+162, 530, Extension by one, Extension by one of $161$
+163, 531, Extension by one, Extension by one of $162$
+164, 532, Extension by one, Extension by one of $163$
+165, 533, Extension by one, Extension by one of $164$
+166, 534, Extension by one, Extension by one of $165$
+167, 535, Extension by one, Extension by one of $166$
+168, 536, Extension by one, Extension by one of $167$
+169, 2197, Reed-Solomon, RS($13^{1}$,$3$,$13$)
+170, 2198, Extension by one, Extension by one of $169$
+171, 2199, Extension by one, Extension by one of $170$
+172, 2200, Extension by one, Extension by one of $171$
+173, 2201, Extension by one, Extension by one of $172$
+174, 2202, Extension by one, Extension by one of $173$
+175, 2203, Extension by one, Extension by one of $174$
+176, 2204, Extension by one, Extension by one of $175$
+177, 2205, Extension by one, Extension by one of $176$
+178, 2206, Extension by one, Extension by one of $177$
+179, 2207, Extension by one, Extension by one of $178$
+180, 2208, Extension by one, Extension by one of $179$
+181, 2209, Extension by one, Extension by one of $180$
+182, 2210, Extension by one, Extension by one of $181$
+183, 2211, Extension by one, Extension by one of $182$
+184, 2212, Extension by one, Extension by one of $183$
+185, 2213, Extension by one, Extension by one of $184$
+186, 2214, Extension by one, Extension by one of $185$
+187, 2215, Extension by one, Extension by one of $186$
+188, 2216, Extension by one, Extension by one of $187$
+189, 2217, Extension by one, Extension by one of $188$
+190, 2218, Extension by one, Extension by one of $189$
+191, 2219, Extension by one, Extension by one of $190$
+192, 2220, Extension by one, Extension by one of $191$
+193, 2221, Extension by one, Extension by one of $192$
+194, 2222, Extension by one, Extension by one of $193$
+195, 2223, Extension by one, Extension by one of $194$
+196, 2224, Extension by one, Extension by one of $195$
+197, 2225, Extension by one, Extension by one of $196$
+198, 2226, Extension by one, Extension by one of $197$
+199, 2227, Extension by one, Extension by one of $198$
+200, 2228, Extension by one, Extension by one of $199$
+201, 2229, Extension by one, Extension by one of $200$
+202, 2230, Extension by one, Extension by one of $201$
+203, 2231, Extension by one, Extension by one of $202$
+204, 2232, Extension by one, Extension by one of $203$
+205, 2233, Extension by one, Extension by one of $204$
+206, 2234, Extension by one, Extension by one of $205$
+207, 2235, Extension by one, Extension by one of $206$
+208, 4096, Reed-Solomon, RS($2^{4}$,$3$,$13$)
+209, 4097, Extension by one, Extension by one of $208$
+210, 4098, Extension by one, Extension by one of $209$
+211, 4099, Extension by one, Extension by one of $210$
+212, 4100, Extension by one, Extension by one of $211$
+213, 4101, Extension by one, Extension by one of $212$
+214, 4102, Extension by one, Extension by one of $213$
+215, 4103, Extension by one, Extension by one of $214$
+216, 4104, Extension by one, Extension by one of $215$
+217, 4105, Extension by one, Extension by one of $216$
+218, 4106, Extension by one, Extension by one of $217$
+219, 4107, Extension by one, Extension by one of $218$
+220, 4108, Extension by one, Extension by one of $219$
+221, 4913, Reed-Solomon, RS($17^{1}$,$3$,$13$)
+222, 4914, Extension by one, Extension by one of $221$
+223, 4915, Extension by one, Extension by one of $222$
+224, 4916, Extension by one, Extension by one of $223$
+225, 4917, Extension by one, Extension by one of $224$
+226, 4918, Extension by one, Extension by one of $225$
+227, 4919, Extension by one, Extension by one of $226$
+228, 4920, Extension by one, Extension by one of $227$
+229, 4921, Extension by one, Extension by one of $228$
+230, 4922, Extension by one, Extension by one of $229$
+231, 4923, Extension by one, Extension by one of $230$
+232, 4924, Extension by one, Extension by one of $231$
+233, 4925, Extension by one, Extension by one of $232$
+234, 4926, Extension by one, Extension by one of $233$
+235, 4927, Extension by one, Extension by one of $234$
+236, 4928, Extension by one, Extension by one of $235$
+237, 4929, Extension by one, Extension by one of $236$
+238, 4930, Extension by one, Extension by one of $237$
+239, 4931, Extension by one, Extension by one of $238$
+240, 4932, Extension by one, Extension by one of $239$
+241, 4933, Extension by one, Extension by one of $240$
+242, 4934, Extension by one, Extension by one of $241$
+243, 4935, Extension by one, Extension by one of $242$
+244, 4936, Extension by one, Extension by one of $243$
+245, 4937, Extension by one, Extension by one of $244$
+246, 4938, Extension by one, Extension by one of $245$
+247, 6859, Reed-Solomon, RS($19^{1}$,$3$,$13$)
+248, 6860, Extension by one, Extension by one of $247$
+249, 6861, Extension by one, Extension by one of $248$
+250, 6862, Extension by one, Extension by one of $249$
+251, 6863, Extension by one, Extension by one of $250$
+252, 6864, Extension by one, Extension by one of $251$
+253, 6865, Extension by one, Extension by one of $252$
+254, 6866, Extension by one, Extension by one of $253$
+255, 6867, Extension by one, Extension by one of $254$
+256, 6868, Extension by one, Extension by one of $255$
+257, 6869, Extension by one, Extension by one of $256$
+258, 6870, Extension by one, Extension by one of $257$
+259, 6871, Extension by one, Extension by one of $258$
+260, 6872, Extension by one, Extension by one of $259$
+261, 6873, Extension by one, Extension by one of $260$
+262, 6874, Extension by one, Extension by one of $261$
+263, 6875, Extension by one, Extension by one of $262$
+264, 6876, Extension by one, Extension by one of $263$
+265, 6877, Extension by one, Extension by one of $264$
+266, 6878, Extension by one, Extension by one of $265$
+267, 6879, Extension by one, Extension by one of $266$
+268, 6880, Extension by one, Extension by one of $267$
+269, 6881, Extension by one, Extension by one of $268$
+270, 6882, Extension by one, Extension by one of $269$
+271, 6883, Extension by one, Extension by one of $270$
+272, 6884, Extension by one, Extension by one of $271$
+273, 6885, Extension by one, Extension by one of $272$
+274, 6886, Extension by one, Extension by one of $273$
+275, 6887, Extension by one, Extension by one of $274$
+276, 6888, Extension by one, Extension by one of $275$
+277, 6889, Extension by one, Extension by one of $276$
+278, 6890, Extension by one, Extension by one of $277$
+279, 6891, Extension by one, Extension by one of $278$
+280, 6892, Extension by one, Extension by one of $279$
+281, 6893, Extension by one, Extension by one of $280$
+282, 6894, Extension by one, Extension by one of $281$
+283, 6895, Extension by one, Extension by one of $282$
+284, 6896, Extension by one, Extension by one of $283$
+285, 6897, Extension by one, Extension by one of $284$
+286, 6898, Extension by one, Extension by one of $285$
+287, 6899, Extension by one, Extension by one of $286$
+288, 6900, Extension by one, Extension by one of $287$
+289, 6901, Extension by one, Extension by one of $288$
+290, 6902, Extension by one, Extension by one of $289$
+291, 6903, Extension by one, Extension by one of $290$
+292, 6904, Extension by one, Extension by one of $291$
+293, 6905, Extension by one, Extension by one of $292$
+294, 6906, Extension by one, Extension by one of $293$
+295, 6907, Extension by one, Extension by one of $294$
+296, 6908, Extension by one, Extension by one of $295$
+297, 6909, Extension by one, Extension by one of $296$
+298, 6910, Extension by one, Extension by one of $297$
+299, 12167, Reed-Solomon, RS($23^{1}$,$3$,$13$)
+300, 12168, Extension by one, Extension by one of $299$
+301, 12169, Extension by one, Extension by one of $300$
+302, 12170, Extension by one, Extension by one of $301$
+303, 12171, Extension by one, Extension by one of $302$
+304, 12172, Extension by one, Extension by one of $303$
+305, 12173, Extension by one, Extension by one of $304$
+306, 12174, Extension by one, Extension by one of $305$
+307, 12175, Extension by one, Extension by one of $306$
+308, 12176, Extension by one, Extension by one of $307$
+309, 12177, Extension by one, Extension by one of $308$
+310, 12178, Extension by one, Extension by one of $309$
+311, 12179, Extension by one, Extension by one of $310$
+312, 12180, Extension by one, Extension by one of $311$
+313, 12181, Extension by one, Extension by one of $312$
+314, 12182, Extension by one, Extension by one of $313$
+315, 12183, Extension by one, Extension by one of $314$
+316, 12184, Extension by one, Extension by one of $315$
+317, 12185, Extension by one, Extension by one of $316$
+318, 12186, Extension by one, Extension by one of $317$
+319, 12187, Extension by one, Extension by one of $318$
+320, 12188, Extension by one, Extension by one of $319$
+321, 12189, Extension by one, Extension by one of $320$
+322, 12190, Extension by one, Extension by one of $321$
+323, 12191, Extension by one, Extension by one of $322$
+324, 12192, Extension by one, Extension by one of $323$
+325, 15625, Reed-Solomon, RS($5^{2}$,$3$,$13$)
+326, 15626, Extension by one, Extension by one of $325$
+327, 15627, Extension by one, Extension by one of $326$
+328, 15628, Extension by one, Extension by one of $327$
+329, 15629, Extension by one, Extension by one of $328$
+330, 15630, Extension by one, Extension by one of $329$
+331, 15631, Extension by one, Extension by one of $330$
+332, 15632, Extension by one, Extension by one of $331$
+333, 15633, Extension by one, Extension by one of $332$
+334, 15634, Extension by one, Extension by one of $333$
+335, 15635, Extension by one, Extension by one of $334$
+336, 15636, Extension by one, Extension by one of $335$
+337, 15637, Extension by one, Extension by one of $336$
+338, 15638, Extension by one, Extension by one of $337$
+339, 15639, Extension by one, Extension by one of $338$
+340, 15640, Extension by one, Extension by one of $339$
+341, 15641, Extension by one, Extension by one of $340$
+342, 15642, Extension by one, Extension by one of $341$
+343, 15643, Extension by one, Extension by one of $342$
+344, 15644, Extension by one, Extension by one of $343$
+345, 15645, Extension by one, Extension by one of $344$
+346, 15646, Extension by one, Extension by one of $345$
+347, 15647, Extension by one, Extension by one of $346$
+348, 15648, Extension by one, Extension by one of $347$
+349, 15649, Extension by one, Extension by one of $348$
+350, 15650, Extension by one, Extension by one of $349$
+351, 19683, Reed-Solomon, RS($3^{3}$,$3$,$13$)
+352, 19684, Extension by one, Extension by one of $351$
+353, 19685, Extension by one, Extension by one of $352$
+354, 19686, Extension by one, Extension by one of $353$
+355, 19687, Extension by one, Extension by one of $354$
+356, 19688, Extension by one, Extension by one of $355$
+357, 19689, Extension by one, Extension by one of $356$
+358, 19690, Extension by one, Extension by one of $357$
+359, 19691, Extension by one, Extension by one of $358$
+360, 19692, Extension by one, Extension by one of $359$
+361, 130321, Reed-Solomon, RS($19^{1}$,$4$,$19$)
+362, 130322, Extension by one, Extension by one of $361$
+363, 130323, Extension by one, Extension by one of $362$
+364, 130324, Extension by one, Extension by one of $363$
+365, 130325, Extension by one, Extension by one of $364$
+366, 130326, Extension by one, Extension by one of $365$
+367, 130327, Extension by one, Extension by one of $366$
+368, 130328, Extension by one, Extension by one of $367$
+369, 130329, Extension by one, Extension by one of $368$
+370, 130330, Extension by one, Extension by one of $369$
+371, 130331, Extension by one, Extension by one of $370$
+372, 130332, Extension by one, Extension by one of $371$
+373, 130333, Extension by one, Extension by one of $372$
+374, 130334, Extension by one, Extension by one of $373$
+375, 130335, Extension by one, Extension by one of $374$
+376, 130336, Extension by one, Extension by one of $375$
+377, 130337, Extension by one, Extension by one of $376$
+378, 130338, Extension by one, Extension by one of $377$
+379, 130339, Extension by one, Extension by one of $378$
+380, 130340, Extension by one, Extension by one of $379$
+381, 130341, Extension by one, Extension by one of $380$
+382, 130342, Extension by one, Extension by one of $381$
+383, 130343, Extension by one, Extension by one of $382$
+384, 130344, Extension by one, Extension by one of $383$
+385, 130345, Extension by one, Extension by one of $384$
+386, 130346, Extension by one, Extension by one of $385$
+387, 130347, Extension by one, Extension by one of $386$
+388, 130348, Extension by one, Extension by one of $387$
+389, 130349, Extension by one, Extension by one of $388$
+390, 130350, Extension by one, Extension by one of $389$
+391, 130351, Extension by one, Extension by one of $390$
+392, 130352, Extension by one, Extension by one of $391$
+393, 130353, Extension by one, Extension by one of $392$
+394, 130354, Extension by one, Extension by one of $393$
+395, 130355, Extension by one, Extension by one of $394$
+396, 130356, Extension by one, Extension by one of $395$
+397, 130357, Extension by one, Extension by one of $396$
+398, 130358, Extension by one, Extension by one of $397$
+399, 130359, Extension by one, Extension by one of $398$
+400, 130360, Extension by one, Extension by one of $399$
+401, 130361, Extension by one, Extension by one of $400$
+402, 130362, Extension by one, Extension by one of $401$
+403, 130363, Extension by one, Extension by one of $402$
+404, 130364, Extension by one, Extension by one of $403$
+405, 130365, Extension by one, Extension by one of $404$
+406, 130366, Extension by one, Extension by one of $405$
+407, 130367, Extension by one, Extension by one of $406$
+408, 130368, Extension by one, Extension by one of $407$
+409, 130369, Extension by one, Extension by one of $408$
+410, 130370, Extension by one, Extension by one of $409$
+411, 130371, Extension by one, Extension by one of $410$
+412, 130372, Extension by one, Extension by one of $411$
+413, 130373, Extension by one, Extension by one of $412$
+414, 130374, Extension by one, Extension by one of $413$
+415, 130375, Extension by one, Extension by one of $414$
+416, 130376, Extension by one, Extension by one of $415$
+417, 130385, Additive, Add($56$,$361$)
+418, 130386, Additive, Add($56$,$362$)
+419, 130387, Additive, Add($56$,$363$)
+420, 130388, Additive, Add($56$,$364$)
+421, 130389, Additive, Add($56$,$365$)
+422, 130390, Additive, Add($56$,$366$)
+423, 130391, Additive, Add($56$,$367$)
+424, 130402, Additive, Add($63$,$361$)
+425, 130403, Additive, Add($63$,$362$)
+426, 130404, Additive, Add($63$,$363$)
+427, 130405, Additive, Add($63$,$364$)
+428, 130406, Additive, Add($63$,$365$)
+429, 130407, Additive, Add($63$,$366$)
+430, 130408, Additive, Add($63$,$367$)
+431, 130409, Additive, Add($63$,$368$)
+432, 130410, Additive, Add($63$,$369$)
+433, 130411, Additive, Add($63$,$370$)
+434, 130412, Additive, Add($63$,$371$)
+435, 130413, Additive, Add($63$,$372$)
+436, 130414, Additive, Add($63$,$373$)
+437, 279841, Reed-Solomon, RS($23^{1}$,$4$,$19$)
+438, 279842, Extension by one, Extension by one of $437$
+439, 279843, Extension by one, Extension by one of $438$
+440, 279844, Extension by one, Extension by one of $439$
+441, 279845, Extension by one, Extension by one of $440$
+442, 279846, Extension by one, Extension by one of $441$
+443, 279847, Extension by one, Extension by one of $442$
+444, 279848, Extension by one, Extension by one of $443$
+445, 279849, Extension by one, Extension by one of $444$
+446, 279850, Extension by one, Extension by one of $445$
+447, 279851, Extension by one, Extension by one of $446$
+448, 279852, Extension by one, Extension by one of $447$
+449, 279853, Extension by one, Extension by one of $448$
+450, 279854, Extension by one, Extension by one of $449$
+451, 279855, Extension by one, Extension by one of $450$
+452, 279856, Extension by one, Extension by one of $451$
+453, 279857, Extension by one, Extension by one of $452$
+454, 279858, Extension by one, Extension by one of $453$
+455, 279859, Extension by one, Extension by one of $454$
+456, 279860, Extension by one, Extension by one of $455$
+457, 279861, Extension by one, Extension by one of $456$
+458, 279862, Extension by one, Extension by one of $457$
+459, 279863, Extension by one, Extension by one of $458$
+460, 279864, Extension by one, Extension by one of $459$
+461, 279865, Extension by one, Extension by one of $460$
+462, 279866, Extension by one, Extension by one of $461$
+463, 279867, Extension by one, Extension by one of $462$
+464, 279868, Extension by one, Extension by one of $463$
+465, 279869, Extension by one, Extension by one of $464$
+466, 279870, Extension by one, Extension by one of $465$
+467, 279871, Extension by one, Extension by one of $466$
+468, 279872, Extension by one, Extension by one of $467$
+469, 279873, Extension by one, Extension by one of $468$
+470, 279874, Extension by one, Extension by one of $469$
+471, 279875, Extension by one, Extension by one of $470$
+472, 279876, Extension by one, Extension by one of $471$
+473, 279877, Extension by one, Extension by one of $472$
+474, 279878, Extension by one, Extension by one of $473$
+475, 390625, Reed-Solomon, RS($5^{2}$,$4$,$19$)
+476, 390626, Extension by one, Extension by one of $475$
+477, 390627, Extension by one, Extension by one of $476$
+478, 390628, Extension by one, Extension by one of $477$
+479, 390629, Extension by one, Extension by one of $478$
+480, 390630, Extension by one, Extension by one of $479$
+481, 390631, Extension by one, Extension by one of $480$
+482, 390632, Extension by one, Extension by one of $481$
+483, 390633, Extension by one, Extension by one of $482$
+484, 390634, Extension by one, Extension by one of $483$
+485, 390635, Extension by one, Extension by one of $484$
+486, 390636, Extension by one, Extension by one of $485$
+487, 390637, Extension by one, Extension by one of $486$
+488, 390638, Extension by one, Extension by one of $487$
+489, 390639, Extension by one, Extension by one of $488$
+490, 390640, Extension by one, Extension by one of $489$
+491, 390641, Extension by one, Extension by one of $490$
+492, 390642, Extension by one, Extension by one of $491$
+493, 390643, Extension by one, Extension by one of $492$
+494, 390644, Extension by one, Extension by one of $493$
+495, 390645, Extension by one, Extension by one of $494$
+496, 390646, Extension by one, Extension by one of $495$
+497, 390647, Extension by one, Extension by one of $496$
+498, 390648, Extension by one, Extension by one of $497$
+499, 390649, Extension by one, Extension by one of $498$
+500, 390650, Extension by one, Extension by one of $499$
+501, 390651, Extension by one, Extension by one of $500$
+502, 390652, Extension by one, Extension by one of $501$
+503, 390653, Extension by one, Extension by one of $502$
+504, 390654, Extension by one, Extension by one of $503$
+505, 390655, Extension by one, Extension by one of $504$
+506, 390656, Extension by one, Extension by one of $505$
+507, 390657, Extension by one, Extension by one of $506$
+508, 390658, Extension by one, Extension by one of $507$
+509, 390659, Extension by one, Extension by one of $508$
+510, 390660, Extension by one, Extension by one of $509$
+511, 390661, Extension by one, Extension by one of $510$
+512, 390662, Extension by one, Extension by one of $511$
+513, 531441, Reed-Solomon, RS($3^{3}$,$4$,$19$)
+514, 531442, Extension by one, Extension by one of $513$
+515, 531443, Extension by one, Extension by one of $514$
+516, 531444, Extension by one, Extension by one of $515$
+517, 531445, Extension by one, Extension by one of $516$
+518, 531446, Extension by one, Extension by one of $517$
+519, 531447, Extension by one, Extension by one of $518$
+520, 531448, Extension by one, Extension by one of $519$
+521, 531449, Extension by one, Extension by one of $520$
+522, 531450, Extension by one, Extension by one of $521$
+523, 531451, Extension by one, Extension by one of $522$
+524, 531452, Extension by one, Extension by one of $523$
+525, 531453, Extension by one, Extension by one of $524$
+526, 531454, Extension by one, Extension by one of $525$
+527, 531455, Extension by one, Extension by one of $526$
+528, 531456, Extension by one, Extension by one of $527$
+529, 531457, Extension by one, Extension by one of $528$
+530, 531458, Extension by one, Extension by one of $529$
+531, 531459, Extension by one, Extension by one of $530$
+532, 531460, Extension by one, Extension by one of $531$
+533, 531461, Extension by one, Extension by one of $532$
+534, 531462, Extension by one, Extension by one of $533$
+535, 531463, Extension by one, Extension by one of $534$
+536, 531464, Extension by one, Extension by one of $535$
+537, 531465, Extension by one, Extension by one of $536$
+538, 531466, Extension by one, Extension by one of $537$
+539, 531467, Extension by one, Extension by one of $538$
+540, 531468, Extension by one, Extension by one of $539$
+541, 531469, Extension by one, Extension by one of $540$
+542, 531470, Extension by one, Extension by one of $541$
+543, 531471, Extension by one, Extension by one of $542$
+544, 531472, Extension by one, Extension by one of $543$
+545, 531473, Extension by one, Extension by one of $544$
+546, 531474, Extension by one, Extension by one of $545$
+547, 531475, Extension by one, Extension by one of $546$
+548, 531476, Extension by one, Extension by one of $547$
+549, 531477, Extension by one, Extension by one of $548$
+550, 531478, Extension by one, Extension by one of $549$
+551, 707281, Reed-Solomon, RS($29^{1}$,$4$,$19$)
+552, 707282, Extension by one, Extension by one of $551$
+553, 707283, Extension by one, Extension by one of $552$
+554, 707284, Extension by one, Extension by one of $553$
+555, 707285, Extension by one, Extension by one of $554$
+556, 707286, Extension by one, Extension by one of $555$
+557, 707287, Extension by one, Extension by one of $556$
+558, 707288, Extension by one, Extension by one of $557$
+559, 707289, Extension by one, Extension by one of $558$
+560, 707290, Extension by one, Extension by one of $559$
+561, 707291, Extension by one, Extension by one of $560$
+562, 707292, Extension by one, Extension by one of $561$
+563, 707293, Extension by one, Extension by one of $562$
+564, 707294, Extension by one, Extension by one of $563$
+565, 707295, Extension by one, Extension by one of $564$
+566, 707296, Extension by one, Extension by one of $565$
+567, 707297, Extension by one, Extension by one of $566$
+568, 707298, Extension by one, Extension by one of $567$
+569, 707299, Extension by one, Extension by one of $568$
+570, 707300, Extension by one, Extension by one of $569$
+571, 707301, Extension by one, Extension by one of $570$
+572, 707302, Extension by one, Extension by one of $571$
+573, 707303, Extension by one, Extension by one of $572$
+574, 707304, Extension by one, Extension by one of $573$
+575, 707305, Extension by one, Extension by one of $574$
+576, 707306, Extension by one, Extension by one of $575$
+577, 707307, Extension by one, Extension by one of $576$
+578, 707308, Extension by one, Extension by one of $577$
+579, 707309, Extension by one, Extension by one of $578$
+580, 707310, Extension by one, Extension by one of $579$
+581, 707311, Extension by one, Extension by one of $580$
+582, 707312, Extension by one, Extension by one of $581$
+583, 707313, Extension by one, Extension by one of $582$
+584, 707314, Extension by one, Extension by one of $583$
+585, 707315, Extension by one, Extension by one of $584$
+586, 707316, Extension by one, Extension by one of $585$
+587, 707317, Extension by one, Extension by one of $586$
+588, 707318, Extension by one, Extension by one of $587$
+589, 923521, Reed-Solomon, RS($31^{1}$,$4$,$19$)
+590, 923522, Extension by one, Extension by one of $589$
+591, 923523, Extension by one, Extension by one of $590$
+592, 923524, Extension by one, Extension by one of $591$
+593, 923525, Extension by one, Extension by one of $592$
+594, 923526, Extension by one, Extension by one of $593$
+595, 923527, Extension by one, Extension by one of $594$
+596, 923528, Extension by one, Extension by one of $595$
+597, 923529, Extension by one, Extension by one of $596$
+598, 923530, Extension by one, Extension by one of $597$
+599, 923531, Extension by one, Extension by one of $598$
+600, 923532, Extension by one, Extension by one of $599$
+601, 923533, Extension by one, Extension by one of $600$
+602, 923534, Extension by one, Extension by one of $601$
+603, 923535, Extension by one, Extension by one of $602$
+604, 923536, Extension by one, Extension by one of $603$
+605, 923537, Extension by one, Extension by one of $604$
+606, 923538, Extension by one, Extension by one of $605$
+607, 923539, Extension by one, Extension by one of $606$
+608, 1048576, Reed-Solomon, RS($2^{5}$,$4$,$19$)
+609, 1048577, Extension by one, Extension by one of $608$
+610, 1048578, Extension by one, Extension by one of $609$
+611, 1048579, Extension by one, Extension by one of $610$
+612, 1048580, Extension by one, Extension by one of $611$
+613, 1048581, Extension by one, Extension by one of $612$
+614, 1048582, Extension by one, Extension by one of $613$
+615, 1048583, Extension by one, Extension by one of $614$
+616, 1048584, Extension by one, Extension by one of $615$
+617, 1048585, Extension by one, Extension by one of $616$
+618, 1048586, Extension by one, Extension by one of $617$
+619, 1048587, Extension by one, Extension by one of $618$
+620, 1048588, Extension by one, Extension by one of $619$
+621, 1048589, Extension by one, Extension by one of $620$
+622, 1048590, Extension by one, Extension by one of $621$
+623, 1048591, Extension by one, Extension by one of $622$
+624, 1048592, Extension by one, Extension by one of $623$
+625, 9765625, Reed-Solomon, RS($5^{2}$,$5$,$25$)
+626, 9765626, Extension by one, Extension by one of $625$
+627, 9765627, Extension by one, Extension by one of $626$
+628, 9765628, Extension by one, Extension by one of $627$
+629, 9765629, Extension by one, Extension by one of $628$
+630, 9765630, Extension by one, Extension by one of $629$
+631, 9765631, Extension by one, Extension by one of $630$
+632, 9765632, Extension by one, Extension by one of $631$
+633, 9765633, Extension by one, Extension by one of $632$
+634, 9765634, Extension by one, Extension by one of $633$
+635, 9765635, Extension by one, Extension by one of $634$
+636, 9765636, Extension by one, Extension by one of $635$
+637, 9765637, Extension by one, Extension by one of $636$
+638, 9765638, Extension by one, Extension by one of $637$
+639, 9765639, Extension by one, Extension by one of $638$
+640, 9765640, Extension by one, Extension by one of $639$
+641, 9765641, Extension by one, Extension by one of $640$
+642, 9765642, Extension by one, Extension by one of $641$
+643, 9765643, Extension by one, Extension by one of $642$
+644, 9765644, Extension by one, Extension by one of $643$
+645, 9765645, Extension by one, Extension by one of $644$
+646, 9765646, Extension by one, Extension by one of $645$
+647, 9765647, Extension by one, Extension by one of $646$
+648, 9765648, Extension by one, Extension by one of $647$
+649, 9765649, Extension by one, Extension by one of $648$
+650, 9765650, Extension by one, Extension by one of $649$
+651, 9765651, Extension by one, Extension by one of $650$
+652, 9765652, Extension by one, Extension by one of $651$
+653, 9765653, Extension by one, Extension by one of $652$
+654, 9765654, Extension by one, Extension by one of $653$
+655, 9765655, Extension by one, Extension by one of $654$
+656, 9765656, Extension by one, Extension by one of $655$
+657, 9765657, Extension by one, Extension by one of $656$
+658, 9765658, Extension by one, Extension by one of $657$
+659, 9765659, Extension by one, Extension by one of $658$
+660, 9765660, Extension by one, Extension by one of $659$
+661, 9765661, Extension by one, Extension by one of $660$
+662, 9765662, Extension by one, Extension by one of $661$
+663, 9765663, Extension by one, Extension by one of $662$
+664, 9765664, Extension by one, Extension by one of $663$
+665, 9765665, Extension by one, Extension by one of $664$
+666, 9765666, Extension by one, Extension by one of $665$
+667, 9765667, Extension by one, Extension by one of $666$
+668, 9765668, Extension by one, Extension by one of $667$
+669, 9765669, Extension by one, Extension by one of $668$
+670, 9765670, Extension by one, Extension by one of $669$
+671, 9765671, Extension by one, Extension by one of $670$
+672, 9765672, Extension by one, Extension by one of $671$
+673, 9765673, Extension by one, Extension by one of $672$
+674, 9765674, Extension by one, Extension by one of $673$
+675, 14348907, Reed-Solomon, RS($3^{3}$,$5$,$25$)
+676, 14348908, Extension by one, Extension by one of $675$
+677, 14348909, Extension by one, Extension by one of $676$
+678, 14348910, Extension by one, Extension by one of $677$
+679, 14348911, Extension by one, Extension by one of $678$
+680, 14348912, Extension by one, Extension by one of $679$
+681, 14348913, Extension by one, Extension by one of $680$
+682, 14348914, Extension by one, Extension by one of $681$
+683, 14348915, Extension by one, Extension by one of $682$
+684, 14348916, Extension by one, Extension by one of $683$
+685, 14348917, Extension by one, Extension by one of $684$
+686, 14348918, Extension by one, Extension by one of $685$
+687, 14348919, Extension by one, Extension by one of $686$
+688, 14348920, Extension by one, Extension by one of $687$
+689, 14348921, Extension by one, Extension by one of $688$
+690, 14348922, Extension by one, Extension by one of $689$
+691, 14348923, Extension by one, Extension by one of $690$
+692, 14348924, Extension by one, Extension by one of $691$
+693, 14348925, Extension by one, Extension by one of $692$
+694, 14348926, Extension by one, Extension by one of $693$
+695, 14348927, Extension by one, Extension by one of $694$
+696, 14348928, Extension by one, Extension by one of $695$
+697, 14348929, Extension by one, Extension by one of $696$
+698, 14348930, Extension by one, Extension by one of $697$
+699, 14348931, Extension by one, Extension by one of $698$
+700, 14348932, Extension by one, Extension by one of $699$
+701, 14348933, Extension by one, Extension by one of $700$
+702, 14348934, Extension by one, Extension by one of $701$
+703, 14348935, Extension by one, Extension by one of $702$
+704, 14348936, Extension by one, Extension by one of $703$
+705, 14348937, Extension by one, Extension by one of $704$
+706, 14348938, Extension by one, Extension by one of $705$
+707, 14348939, Extension by one, Extension by one of $706$
+708, 14348940, Extension by one, Extension by one of $707$
+709, 14348941, Extension by one, Extension by one of $708$
+710, 14348942, Extension by one, Extension by one of $709$
+711, 14348943, Extension by one, Extension by one of $710$
+712, 14348944, Extension by one, Extension by one of $711$
+713, 14348945, Extension by one, Extension by one of $712$
+714, 14348946, Extension by one, Extension by one of $713$
+715, 14348947, Extension by one, Extension by one of $714$
+716, 14348948, Extension by one, Extension by one of $715$
+717, 14348949, Extension by one, Extension by one of $716$
+718, 14348950, Extension by one, Extension by one of $717$
+719, 14348951, Extension by one, Extension by one of $718$
+720, 14348952, Extension by one, Extension by one of $719$
+721, 14348953, Extension by one, Extension by one of $720$
+722, 14348954, Extension by one, Extension by one of $721$
+723, 14348955, Extension by one, Extension by one of $722$
+724, 14348956, Extension by one, Extension by one of $723$
+725, 20511149, Reed-Solomon, RS($29^{1}$,$5$,$25$)
+726, 20511150, Extension by one, Extension by one of $725$
+727, 20511151, Extension by one, Extension by one of $726$
+728, 20511152, Extension by one, Extension by one of $727$
+729, 20511153, Extension by one, Extension by one of $728$
+730, 20511154, Extension by one, Extension by one of $729$
+731, 20511155, Extension by one, Extension by one of $730$
+732, 20511156, Extension by one, Extension by one of $731$
+733, 20511157, Extension by one, Extension by one of $732$
+734, 20511158, Extension by one, Extension by one of $733$
+735, 20511159, Extension by one, Extension by one of $734$
+736, 20511160, Extension by one, Extension by one of $735$
+737, 20511161, Extension by one, Extension by one of $736$
+738, 20511162, Extension by one, Extension by one of $737$
+739, 20511163, Extension by one, Extension by one of $738$
+740, 20511164, Extension by one, Extension by one of $739$
+741, 20511165, Extension by one, Extension by one of $740$
+742, 20511166, Extension by one, Extension by one of $741$
+743, 20511167, Extension by one, Extension by one of $742$
+744, 20511168, Extension by one, Extension by one of $743$
+745, 20511169, Extension by one, Extension by one of $744$
+746, 20511170, Extension by one, Extension by one of $745$
+747, 20511171, Extension by one, Extension by one of $746$
+748, 20511172, Extension by one, Extension by one of $747$
+749, 20511173, Extension by one, Extension by one of $748$
+750, 20511174, Extension by one, Extension by one of $749$
+751, 20511175, Extension by one, Extension by one of $750$
+752, 20511176, Extension by one, Extension by one of $751$
+753, 20511177, Extension by one, Extension by one of $752$
+754, 20511178, Extension by one, Extension by one of $753$
+755, 20511179, Extension by one, Extension by one of $754$
+756, 20511180, Extension by one, Extension by one of $755$
+757, 20511181, Extension by one, Extension by one of $756$
+758, 20511182, Extension by one, Extension by one of $757$
+759, 20511183, Extension by one, Extension by one of $758$
+760, 20511184, Extension by one, Extension by one of $759$
+761, 20511185, Extension by one, Extension by one of $760$
+762, 20511186, Extension by one, Extension by one of $761$
+763, 20511187, Extension by one, Extension by one of $762$
+764, 20511188, Extension by one, Extension by one of $763$
+765, 20511189, Extension by one, Extension by one of $764$
+766, 20511190, Extension by one, Extension by one of $765$
+767, 20511191, Extension by one, Extension by one of $766$
+768, 20511192, Extension by one, Extension by one of $767$
+769, 20511193, Extension by one, Extension by one of $768$
+770, 20511194, Extension by one, Extension by one of $769$
+771, 20511195, Extension by one, Extension by one of $770$
+772, 20511196, Extension by one, Extension by one of $771$
+773, 20511197, Extension by one, Extension by one of $772$
+774, 20511198, Extension by one, Extension by one of $773$
+775, 28629151, Reed-Solomon, RS($31^{1}$,$5$,$25$)
+776, 28629152, Extension by one, Extension by one of $775$
+777, 28629153, Extension by one, Extension by one of $776$
+778, 28629154, Extension by one, Extension by one of $777$
+779, 28629155, Extension by one, Extension by one of $778$
+780, 28629156, Extension by one, Extension by one of $779$
+781, 28629157, Extension by one, Extension by one of $780$
+782, 28629158, Extension by one, Extension by one of $781$
+783, 28629159, Extension by one, Extension by one of $782$
+784, 28629160, Extension by one, Extension by one of $783$
+785, 28629161, Extension by one, Extension by one of $784$
+786, 28629162, Extension by one, Extension by one of $785$
+787, 28629163, Extension by one, Extension by one of $786$
+788, 28629164, Extension by one, Extension by one of $787$
+789, 28629165, Extension by one, Extension by one of $788$
+790, 28629166, Extension by one, Extension by one of $789$
+791, 28629167, Extension by one, Extension by one of $790$
+792, 28629168, Extension by one, Extension by one of $791$
+793, 28629169, Extension by one, Extension by one of $792$
+794, 28629170, Extension by one, Extension by one of $793$
+795, 28629171, Extension by one, Extension by one of $794$
+796, 28629172, Extension by one, Extension by one of $795$
+797, 28629173, Extension by one, Extension by one of $796$
+798, 28629174, Extension by one, Extension by one of $797$
+799, 28629175, Extension by one, Extension by one of $798$
+800, 33554432, Reed-Solomon, RS($2^{5}$,$5$,$25$)
+801, 33554433, Extension by one, Extension by one of $800$
+802, 33554434, Extension by one, Extension by one of $801$
+803, 33554435, Extension by one, Extension by one of $802$
+804, 33554436, Extension by one, Extension by one of $803$
+805, 33554437, Extension by one, Extension by one of $804$
+806, 33554438, Extension by one, Extension by one of $805$
+807, 33554439, Extension by one, Extension by one of $806$
+808, 33554440, Extension by one, Extension by one of $807$
+809, 33554441, Extension by one, Extension by one of $808$
+810, 33554442, Extension by one, Extension by one of $809$
+811, 33554443, Extension by one, Extension by one of $810$
+812, 33554444, Extension by one, Extension by one of $811$
+813, 33554445, Extension by one, Extension by one of $812$
+814, 33554446, Extension by one, Extension by one of $813$
+815, 33554447, Extension by one, Extension by one of $814$
+816, 33554448, Extension by one, Extension by one of $815$
+817, 33554449, Extension by one, Extension by one of $816$
+818, 33554450, Extension by one, Extension by one of $817$
+819, 33554451, Extension by one, Extension by one of $818$
+820, 33554452, Extension by one, Extension by one of $819$
+821, 33554453, Extension by one, Extension by one of $820$
+822, 33554454, Extension by one, Extension by one of $821$
+823, 33554455, Extension by one, Extension by one of $822$
+824, 33554456, Extension by one, Extension by one of $823$
+825, 33554457, Extension by one, Extension by one of $824$
+826, 33554458, Extension by one, Extension by one of $825$
+827, 33554459, Extension by one, Extension by one of $826$
+828, 33554460, Extension by one, Extension by one of $827$
+829, 33554461, Extension by one, Extension by one of $828$
+830, 33554462, Extension by one, Extension by one of $829$
+831, 33554463, Extension by one, Extension by one of $830$
+832, 33554464, Extension by one, Extension by one of $831$
+833, 33554465, Extension by one, Extension by one of $832$
+834, 33554466, Extension by one, Extension by one of $833$
+835, 33554467, Extension by one, Extension by one of $834$
+836, 33554468, Extension by one, Extension by one of $835$
+837, 33554469, Extension by one, Extension by one of $836$
+838, 33554470, Extension by one, Extension by one of $837$
+839, 33554471, Extension by one, Extension by one of $838$
+840, 33554472, Extension by one, Extension by one of $839$
+841, 33554473, Extension by one, Extension by one of $840$
+842, 33554474, Extension by one, Extension by one of $841$
+843, 33554475, Extension by one, Extension by one of $842$
+844, 33554476, Extension by one, Extension by one of $843$
+845, 33554477, Extension by one, Extension by one of $844$
+846, 33554478, Extension by one, Extension by one of $845$
+847, 33554479, Extension by one, Extension by one of $846$
+848, 33554480, Extension by one, Extension by one of $847$
+849, 33554481, Extension by one, Extension by one of $848$
+850, 33554482, Extension by one, Extension by one of $849$
+851, 33554483, Extension by one, Extension by one of $850$
+852, 33554484, Extension by one, Extension by one of $851$
+853, 33554485, Extension by one, Extension by one of $852$
+854, 33554486, Extension by one, Extension by one of $853$
+855, 33554487, Extension by one, Extension by one of $854$
+856, 33554496, Additive, Add($56$,$800$)
+857, 33554497, Additive, Add($56$,$801$)
+858, 33554498, Additive, Add($56$,$802$)
+859, 33554499, Additive, Add($56$,$803$)
+860, 33554500, Additive, Add($56$,$804$)
+861, 33554501, Additive, Add($56$,$805$)
+862, 33554502, Additive, Add($56$,$806$)
+863, 33554513, Additive, Add($63$,$800$)
+864, 33554514, Additive, Add($63$,$801$)
+865, 33554515, Additive, Add($63$,$802$)
+866, 33554516, Additive, Add($63$,$803$)
+867, 33554517, Additive, Add($63$,$804$)
+868, 33554518, Additive, Add($63$,$805$)
+869, 33554519, Additive, Add($63$,$806$)
+870, 33554520, Additive, Add($63$,$807$)
+871, 33554521, Additive, Add($63$,$808$)
+872, 33554522, Additive, Add($63$,$809$)
+873, 33554523, Additive, Add($63$,$810$)
+874, 33554524, Additive, Add($63$,$811$)
+875, 33554525, Additive, Add($63$,$812$)
+876, 33554526, Additive, Add($63$,$813$)
+877, 33554553, Additive, Add($77$,$800$)
+878, 33554554, Additive, Add($77$,$801$)
+879, 33554555, Additive, Add($77$,$802$)
+880, 33554556, Additive, Add($77$,$803$)
+881, 33554557, Additive, Add($77$,$804$)
+882, 33554558, Additive, Add($77$,$805$)
+883, 33554559, Additive, Add($77$,$806$)
+884, 33554560, Additive, Add($77$,$807$)
+885, 33554561, Additive, Add($77$,$808$)
+886, 33554562, Additive, Add($77$,$809$)
+887, 33554563, Additive, Add($77$,$810$)
+888, 33554564, Additive, Add($77$,$811$)
+889, 33554565, Additive, Add($77$,$812$)
+890, 33554566, Additive, Add($77$,$813$)
+891, 33554601, Additive, Add($91$,$800$)
+892, 33554602, Additive, Add($91$,$801$)
+893, 33554603, Additive, Add($91$,$802$)
+894, 33554604, Additive, Add($91$,$803$)
+895, 33554605, Additive, Add($91$,$804$)
+896, 33554606, Additive, Add($91$,$805$)
+897, 33554607, Additive, Add($91$,$806$)
+898, 33554608, Additive, Add($91$,$807$)
+899, 33554609, Additive, Add($91$,$808$)
+900, 33554610, Additive, Add($91$,$809$)
+901, 33554611, Additive, Add($91$,$810$)
+902, 33554612, Additive, Add($91$,$811$)
+903, 33554613, Additive, Add($91$,$812$)
+904, 33554614, Additive, Add($91$,$813$)
+905, 33554615, Additive, Add($91$,$814$)
+906, 33554616, Additive, Add($91$,$815$)
+907, 33554617, Additive, Add($91$,$816$)
+908, 33554618, Additive, Add($91$,$817$)
+909, 33554619, Additive, Add($91$,$818$)
+910, 33554620, Additive, Add($91$,$819$)
+911, 33554621, Additive, Add($91$,$820$)
+912, 33554688, Additive, Add($112$,$800$)
+913, 33554689, Additive, Add($112$,$801$)
+914, 33554690, Additive, Add($112$,$802$)
+915, 33554691, Additive, Add($112$,$803$)
+916, 33554692, Additive, Add($112$,$804$)
+917, 33554693, Additive, Add($112$,$805$)
+918, 33554694, Additive, Add($112$,$806$)
+919, 33554721, Additive, Add($119$,$800$)
+920, 33554722, Additive, Add($119$,$801$)
+921, 33554723, Additive, Add($119$,$802$)
+922, 33554724, Additive, Add($119$,$803$)
+923, 33554725, Additive, Add($119$,$804$)
+924, 33554726, Additive, Add($119$,$805$)
+925, 69343957, Reed-Solomon, RS($37^{1}$,$5$,$25$)
+926, 69343958, Extension by one, Extension by one of $925$
+927, 69343959, Extension by one, Extension by one of $926$
+928, 69343960, Extension by one, Extension by one of $927$
+929, 69343961, Extension by one, Extension by one of $928$
+930, 69343962, Extension by one, Extension by one of $929$
+931, 69343963, Extension by one, Extension by one of $930$
+932, 69343964, Extension by one, Extension by one of $931$
+933, 69343965, Extension by one, Extension by one of $932$
+934, 69343966, Extension by one, Extension by one of $933$
+935, 69343967, Extension by one, Extension by one of $934$
+936, 69343968, Extension by one, Extension by one of $935$
+937, 69343969, Extension by one, Extension by one of $936$
+938, 69343970, Extension by one, Extension by one of $937$
+939, 69343971, Extension by one, Extension by one of $938$
+940, 69343972, Extension by one, Extension by one of $939$
+941, 69343973, Extension by one, Extension by one of $940$
+942, 69343974, Extension by one, Extension by one of $941$
+943, 69343975, Extension by one, Extension by one of $942$
+944, 69343976, Extension by one, Extension by one of $943$
+945, 69343977, Extension by one, Extension by one of $944$
+946, 69343978, Extension by one, Extension by one of $945$
+947, 69343979, Extension by one, Extension by one of $946$
+948, 69343980, Extension by one, Extension by one of $947$
+949, 69343981, Extension by one, Extension by one of $948$
+950, 69343982, Extension by one, Extension by one of $949$
+951, 69343983, Extension by one, Extension by one of $950$
+952, 69343984, Extension by one, Extension by one of $951$
+953, 69343985, Extension by one, Extension by one of $952$
+954, 69343986, Extension by one, Extension by one of $953$
+955, 69343987, Extension by one, Extension by one of $954$
+956, 69343988, Extension by one, Extension by one of $955$
+957, 69343989, Extension by one, Extension by one of $956$
+958, 69343990, Extension by one, Extension by one of $957$
+959, 69343991, Extension by one, Extension by one of $958$
+960, 69343992, Extension by one, Extension by one of $959$
+961, 887503681, Reed-Solomon, RS($31^{1}$,$6$,$31$)
+962, 887503682, Extension by one, Extension by one of $961$
+963, 887503683, Extension by one, Extension by one of $962$
+964, 887503684, Extension by one, Extension by one of $963$
+965, 887503685, Extension by one, Extension by one of $964$
+966, 887503686, Extension by one, Extension by one of $965$
+967, 887503687, Extension by one, Extension by one of $966$
+968, 887503688, Extension by one, Extension by one of $967$
+969, 887503689, Extension by one, Extension by one of $968$
+970, 887503690, Extension by one, Extension by one of $969$
+971, 887503691, Extension by one, Extension by one of $970$
+972, 887503692, Extension by one, Extension by one of $971$
+973, 887503693, Extension by one, Extension by one of $972$
+974, 887503694, Extension by one, Extension by one of $973$
+975, 887503695, Extension by one, Extension by one of $974$
+976, 887503696, Extension by one, Extension by one of $975$
+977, 887503697, Extension by one, Extension by one of $976$
+978, 887503698, Extension by one, Extension by one of $977$
+979, 887503699, Extension by one, Extension by one of $978$
+980, 887503700, Extension by one, Extension by one of $979$
+981, 887503701, Extension by one, Extension by one of $980$
+982, 887503702, Extension by one, Extension by one of $981$
+983, 887503703, Extension by one, Extension by one of $982$
+984, 887503704, Extension by one, Extension by one of $983$
+985, 887503705, Extension by one, Extension by one of $984$
+986, 887503706, Extension by one, Extension by one of $985$
+987, 887503707, Extension by one, Extension by one of $986$
+988, 887503708, Extension by one, Extension by one of $987$
+989, 887503709, Extension by one, Extension by one of $988$
+990, 887503710, Extension by one, Extension by one of $989$
+991, 887503711, Extension by one, Extension by one of $990$
+992, 1073741824, Reed-Solomon, RS($2^{5}$,$6$,$31$)
+993, 1073741825, Extension by one, Extension by one of $992$
+994, 1073741826, Extension by one, Extension by one of $993$
+995, 1073741827, Extension by one, Extension by one of $994$
+996, 1073741828, Extension by one, Extension by one of $995$
+997, 1073741829, Extension by one, Extension by one of $996$
+998, 1073741830, Extension by one, Extension by one of $997$
+999, 1073741831, Extension by one, Extension by one of $998$
+1000, 1073741832, Extension by one, Extension by one of $999$
+1001, 1073741833, Extension by one, Extension by one of $1000$
+1002, 1073741834, Extension by one, Extension by one of $1001$
+1003, 1073741835, Extension by one, Extension by one of $1002$
+1004, 1073741836, Extension by one, Extension by one of $1003$
+1005, 1073741837, Extension by one, Extension by one of $1004$
+1006, 1073741838, Extension by one, Extension by one of $1005$
+1007, 1073741839, Extension by one, Extension by one of $1006$
+1008, 1073741840, Extension by one, Extension by one of $1007$
+1009, 1073741841, Extension by one, Extension by one of $1008$
+1010, 1073741842, Extension by one, Extension by one of $1009$
+1011, 1073741843, Extension by one, Extension by one of $1010$
+1012, 1073741844, Extension by one, Extension by one of $1011$
+1013, 1073741845, Extension by one, Extension by one of $1012$
+1014, 1073741846, Extension by one, Extension by one of $1013$
+1015, 1073741847, Extension by one, Extension by one of $1014$
+1016, 1073741848, Extension by one, Extension by one of $1015$
+1017, 1073741849, Extension by one, Extension by one of $1016$
+1018, 1073741850, Extension by one, Extension by one of $1017$
+1019, 1073741851, Extension by one, Extension by one of $1018$
+1020, 1073741852, Extension by one, Extension by one of $1019$
+1021, 1073741853, Extension by one, Extension by one of $1020$
+1022, 1073741854, Extension by one, Extension by one of $1021$
+1023, 1073741855, Extension by one, Extension by one of $1022$
+1024, 1073741856, Extension by one, Extension by one of $1023$
+1025, 1073741857, Extension by one, Extension by one of $1024$
+1026, 1073741858, Extension by one, Extension by one of $1025$
+1027, 1073741859, Extension by one, Extension by one of $1026$
+1028, 1073741860, Extension by one, Extension by one of $1027$
+1029, 1073741861, Extension by one, Extension by one of $1028$
+1030, 1073741862, Extension by one, Extension by one of $1029$
+1031, 1073741863, Extension by one, Extension by one of $1030$
+1032, 1073741864, Extension by one, Extension by one of $1031$
+1033, 1073741865, Extension by one, Extension by one of $1032$
+1034, 1073741866, Extension by one, Extension by one of $1033$
+1035, 1073741867, Extension by one, Extension by one of $1034$
+1036, 1073741868, Extension by one, Extension by one of $1035$
+1037, 1073741869, Extension by one, Extension by one of $1036$
+1038, 1073741870, Extension by one, Extension by one of $1037$
+1039, 1073741871, Extension by one, Extension by one of $1038$
+1040, 1073741872, Extension by one, Extension by one of $1039$
+1041, 1073741873, Extension by one, Extension by one of $1040$
+1042, 1073741874, Extension by one, Extension by one of $1041$
+1043, 1073741875, Extension by one, Extension by one of $1042$
+1044, 1073741876, Extension by one, Extension by one of $1043$
+1045, 1073741877, Extension by one, Extension by one of $1044$
+1046, 1073741878, Extension by one, Extension by one of $1045$
+1047, 1073741879, Extension by one, Extension by one of $1046$
+1048, 1073741888, Additive, Add($56$,$992$)
+1049, 1073741889, Additive, Add($56$,$993$)
+1050, 1073741890, Additive, Add($56$,$994$)
+1051, 1073741891, Additive, Add($56$,$995$)
+1052, 1073741892, Additive, Add($56$,$996$)
+1053, 1073741893, Additive, Add($56$,$997$)
+1054, 1073741894, Additive, Add($56$,$998$)
+1055, 1073741905, Additive, Add($63$,$992$)
+1056, 1073741906, Additive, Add($63$,$993$)
+1057, 1073741907, Additive, Add($63$,$994$)
+1058, 1073741908, Additive, Add($63$,$995$)
+1059, 1073741909, Additive, Add($63$,$996$)
+1060, 1073741910, Additive, Add($63$,$997$)
+1061, 1073741911, Additive, Add($63$,$998$)
+1062, 1073741912, Additive, Add($63$,$999$)
+1063, 1073741913, Additive, Add($63$,$1000$)
+1064, 1073741914, Additive, Add($63$,$1001$)
+1065, 1073741915, Additive, Add($63$,$1002$)
+1066, 1073741916, Additive, Add($63$,$1003$)
+1067, 1073741917, Additive, Add($63$,$1004$)
+1068, 1073741918, Additive, Add($63$,$1005$)
+1069, 1073741945, Additive, Add($77$,$992$)
+1070, 1073741946, Additive, Add($77$,$993$)
+1071, 1073741947, Additive, Add($77$,$994$)
+1072, 1073741948, Additive, Add($77$,$995$)
+1073, 1073741949, Additive, Add($77$,$996$)
+1074, 1073741950, Additive, Add($77$,$997$)
+1075, 1073741951, Additive, Add($77$,$998$)
+1076, 1073741952, Additive, Add($77$,$999$)
+1077, 1073741953, Additive, Add($77$,$1000$)
+1078, 1073741954, Additive, Add($77$,$1001$)
+1079, 1073741955, Additive, Add($77$,$1002$)
+1080, 1073741956, Additive, Add($77$,$1003$)
+1081, 1073741957, Additive, Add($77$,$1004$)
+1082, 1073741958, Additive, Add($77$,$1005$)
+1083, 1073741993, Additive, Add($91$,$992$)
+1084, 1073741994, Additive, Add($91$,$993$)
+1085, 1073741995, Additive, Add($91$,$994$)
+1086, 1073741996, Additive, Add($91$,$995$)
+1087, 1073741997, Additive, Add($91$,$996$)
+1088, 1073741998, Additive, Add($91$,$997$)
+1089, 1073741999, Additive, Add($91$,$998$)
+1090, 1073742000, Additive, Add($91$,$999$)
+1091, 1073742001, Additive, Add($91$,$1000$)
+1092, 1073742002, Additive, Add($91$,$1001$)
+1093, 1073742003, Additive, Add($91$,$1002$)
+1094, 1073742004, Additive, Add($91$,$1003$)
+1095, 1073742005, Additive, Add($91$,$1004$)
+1096, 1073742006, Additive, Add($91$,$1005$)
+1097, 1073742007, Additive, Add($91$,$1006$)
+1098, 1073742008, Additive, Add($91$,$1007$)
+1099, 1073742009, Additive, Add($91$,$1008$)
+1100, 1073742010, Additive, Add($91$,$1009$)
+1101, 1073742011, Additive, Add($91$,$1010$)
+1102, 1073742012, Additive, Add($91$,$1011$)
+1103, 1073742013, Additive, Add($91$,$1012$)
+1104, 1073742080, Additive, Add($112$,$992$)
+1105, 1073742081, Additive, Add($112$,$993$)
+1106, 1073742082, Additive, Add($112$,$994$)
+1107, 1073742083, Additive, Add($112$,$995$)
+1108, 1073742084, Additive, Add($112$,$996$)
+1109, 1073742085, Additive, Add($112$,$997$)
+1110, 1073742086, Additive, Add($112$,$998$)
+1111, 1073742113, Additive, Add($119$,$992$)
+1112, 1073742114, Additive, Add($119$,$993$)
+1113, 1073742115, Additive, Add($119$,$994$)
+1114, 1073742116, Additive, Add($119$,$995$)
+1115, 1073742117, Additive, Add($119$,$996$)
+1116, 1073742118, Additive, Add($119$,$997$)
+1117, 1073742119, Additive, Add($119$,$998$)
+1118, 1073742120, Additive, Add($119$,$999$)
+1119, 1073742121, Additive, Add($119$,$1000$)
+1120, 1073742122, Additive, Add($119$,$1001$)
+1121, 1073742123, Additive, Add($119$,$1002$)
+1122, 1073742124, Additive, Add($119$,$1003$)
+1123, 1073742125, Additive, Add($119$,$1004$)
+1124, 1073742126, Additive, Add($119$,$1005$)
+1125, 1073742185, Additive, Add($133$,$992$)
+1126, 1073742186, Additive, Add($133$,$993$)
+1127, 1073742187, Additive, Add($133$,$994$)
+1128, 1073742188, Additive, Add($133$,$995$)
+1129, 1073742189, Additive, Add($133$,$996$)
+1130, 1073742190, Additive, Add($133$,$997$)
+1131, 1073742191, Additive, Add($133$,$998$)
+1132, 1073742192, Additive, Add($133$,$999$)
+1133, 1073742193, Additive, Add($133$,$1000$)
+1134, 1073742194, Additive, Add($133$,$1001$)
+1135, 1073742195, Additive, Add($133$,$1002$)
+1136, 1073742196, Additive, Add($133$,$1003$)
+1137, 1073742197, Additive, Add($133$,$1004$)
+1138, 1073742198, Additive, Add($133$,$1005$)
+1139, 1073742199, Additive, Add($133$,$1006$)
+1140, 1073742200, Additive, Add($133$,$1007$)
+1141, 1073742201, Additive, Add($133$,$1008$)
+1142, 1073742202, Additive, Add($133$,$1009$)
+1143, 1073742203, Additive, Add($133$,$1010$)
+1144, 1073742204, Additive, Add($133$,$1011$)
+1145, 1073742205, Additive, Add($133$,$1012$)
+1146, 1073742206, Additive, Add($133$,$1013$)
+1147, 2565726409, Reed-Solomon, RS($37^{1}$,$6$,$31$)
+1148, 2565726410, Extension by one, Extension by one of $1147$
+1149, 2565726411, Extension by one, Extension by one of $1148$
+1150, 2565726412, Extension by one, Extension by one of $1149$
+1151, 2565726413, Extension by one, Extension by one of $1150$
+1152, 2565726414, Extension by one, Extension by one of $1151$
+1153, 2565726415, Extension by one, Extension by one of $1152$
+1154, 2565726416, Extension by one, Extension by one of $1153$
+1155, 2565726417, Extension by one, Extension by one of $1154$
+1156, 2565726418, Extension by one, Extension by one of $1155$
+1157, 2565726419, Extension by one, Extension by one of $1156$
+1158, 2565726420, Extension by one, Extension by one of $1157$
+1159, 2565726421, Extension by one, Extension by one of $1158$
+1160, 2565726422, Extension by one, Extension by one of $1159$
+1161, 2565726423, Extension by one, Extension by one of $1160$
+1162, 2565726424, Extension by one, Extension by one of $1161$
+1163, 2565726425, Extension by one, Extension by one of $1162$
+1164, 2565726426, Extension by one, Extension by one of $1163$
+1165, 2565726427, Extension by one, Extension by one of $1164$
+1166, 2565726428, Extension by one, Extension by one of $1165$
+1167, 2565726429, Extension by one, Extension by one of $1166$
+1168, 2565726430, Extension by one, Extension by one of $1167$
+1169, 2565726431, Extension by one, Extension by one of $1168$
+1170, 2565726432, Extension by one, Extension by one of $1169$
+1171, 2565726433, Extension by one, Extension by one of $1170$
+1172, 2565726434, Extension by one, Extension by one of $1171$
+1173, 2565726435, Extension by one, Extension by one of $1172$
+1174, 2565726436, Extension by one, Extension by one of $1173$
+1175, 2565726437, Extension by one, Extension by one of $1174$
+1176, 2565726438, Extension by one, Extension by one of $1175$
+1177, 2565726439, Extension by one, Extension by one of $1176$
+1178, 2565726440, Extension by one, Extension by one of $1177$
+1179, 2565726441, Extension by one, Extension by one of $1178$
+1180, 2565726442, Extension by one, Extension by one of $1179$
+1181, 2565726443, Extension by one, Extension by one of $1180$
+1182, 2565726444, Extension by one, Extension by one of $1181$
+1183, 2565726445, Extension by one, Extension by one of $1182$
+1184, 2565726446, Extension by one, Extension by one of $1183$
+1185, 2565726447, Extension by one, Extension by one of $1184$
+1186, 2565726448, Extension by one, Extension by one of $1185$
+1187, 2565726449, Extension by one, Extension by one of $1186$
+1188, 2565726450, Extension by one, Extension by one of $1187$
+1189, 2565726451, Extension by one, Extension by one of $1188$
+1190, 2565726452, Extension by one, Extension by one of $1189$
+1191, 2565726453, Extension by one, Extension by one of $1190$
+1192, 2565726454, Extension by one, Extension by one of $1191$
+1193, 2565726455, Extension by one, Extension by one of $1192$
+1194, 2565726456, Extension by one, Extension by one of $1193$
+1195, 2565726457, Extension by one, Extension by one of $1194$
+1196, 2565726458, Extension by one, Extension by one of $1195$
+1197, 2565726459, Extension by one, Extension by one of $1196$
+1198, 2565726460, Extension by one, Extension by one of $1197$
+1199, 2565726461, Extension by one, Extension by one of $1198$
+1200, 2565726462, Extension by one, Extension by one of $1199$
+1201, 2565726463, Extension by one, Extension by one of $1200$
+1202, 2565726464, Extension by one, Extension by one of $1201$
+1203, 2565726473, Additive, Add($56$,$1147$)
+1204, 2565726474, Additive, Add($56$,$1148$)
+1205, 2565726475, Additive, Add($56$,$1149$)
+1206, 2565726476, Additive, Add($56$,$1150$)
+1207, 2565726477, Additive, Add($56$,$1151$)
+1208, 2565726478, Additive, Add($56$,$1152$)
+1209, 2565726479, Additive, Add($56$,$1153$)
+1210, 2565726490, Additive, Add($63$,$1147$)
+1211, 2565726491, Additive, Add($63$,$1148$)
+1212, 2565726492, Additive, Add($63$,$1149$)
+1213, 2565726493, Additive, Add($63$,$1150$)
+1214, 2565726494, Additive, Add($63$,$1151$)
+1215, 2565726495, Additive, Add($63$,$1152$)
+1216, 2565726496, Additive, Add($63$,$1153$)
+1217, 2565726497, Additive, Add($63$,$1154$)
+1218, 2565726498, Additive, Add($63$,$1155$)
+1219, 2565726499, Additive, Add($63$,$1156$)
+1220, 2565726500, Additive, Add($63$,$1157$)
+1221, 2565726501, Additive, Add($63$,$1158$)
+1222, 2565726502, Additive, Add($63$,$1159$)
+1223, 2565726503, Additive, Add($63$,$1160$)
+1224, 2565726530, Additive, Add($77$,$1147$)
+1225, 2565726531, Additive, Add($77$,$1148$)
+1226, 2565726532, Additive, Add($77$,$1149$)
+1227, 2565726533, Additive, Add($77$,$1150$)
+1228, 2565726534, Additive, Add($77$,$1151$)
+1229, 2565726535, Additive, Add($77$,$1152$)
+1230, 2565726536, Additive, Add($77$,$1153$)
+1231, 2565726537, Additive, Add($77$,$1154$)
+1232, 2565726538, Additive, Add($77$,$1155$)
+1233, 2565726539, Additive, Add($77$,$1156$)
+1234, 2565726540, Additive, Add($77$,$1157$)
+1235, 2565726541, Additive, Add($77$,$1158$)
+1236, 2565726542, Additive, Add($77$,$1159$)
+1237, 2565726543, Additive, Add($77$,$1160$)
+1238, 2565726578, Additive, Add($91$,$1147$)
+1239, 2565726579, Additive, Add($91$,$1148$)
+1240, 2565726580, Additive, Add($91$,$1149$)
+1241, 2565726581, Additive, Add($91$,$1150$)
+1242, 2565726582, Additive, Add($91$,$1151$)
+1243, 2565726583, Additive, Add($91$,$1152$)
+1244, 2565726584, Additive, Add($91$,$1153$)
+1245, 2565726585, Additive, Add($91$,$1154$)
+1246, 2565726586, Additive, Add($91$,$1155$)
+1247, 2565726587, Additive, Add($91$,$1156$)
+1248, 2565726588, Additive, Add($91$,$1157$)
+1249, 2565726589, Additive, Add($91$,$1158$)
+1250, 2565726590, Additive, Add($91$,$1159$)
+1251, 2565726591, Additive, Add($91$,$1160$)
+1252, 2565726592, Additive, Add($91$,$1161$)
+1253, 2565726593, Additive, Add($91$,$1162$)
+1254, 2565726594, Additive, Add($91$,$1163$)
+1255, 2565726595, Additive, Add($91$,$1164$)
+1256, 2565726596, Additive, Add($91$,$1165$)
+1257, 2565726597, Additive, Add($91$,$1166$)
+1258, 2565726598, Additive, Add($91$,$1167$)
+1259, 2565726665, Additive, Add($112$,$1147$)
+1260, 2565726666, Additive, Add($112$,$1148$)
+1261, 2565726667, Additive, Add($112$,$1149$)
+1262, 2565726668, Additive, Add($112$,$1150$)
+1263, 2565726669, Additive, Add($112$,$1151$)
+1264, 2565726670, Additive, Add($112$,$1152$)
+1265, 2565726671, Additive, Add($112$,$1153$)
+1266, 2565726698, Additive, Add($119$,$1147$)
+1267, 2565726699, Additive, Add($119$,$1148$)
+1268, 2565726700, Additive, Add($119$,$1149$)
+1269, 2565726701, Additive, Add($119$,$1150$)
+1270, 2565726702, Additive, Add($119$,$1151$)
+1271, 4750104241, Reed-Solomon, RS($41^{1}$,$6$,$31$)
+1272, 4750104242, Extension by one, Extension by one of $1271$
+1273, 4750104243, Extension by one, Extension by one of $1272$
+1274, 4750104244, Extension by one, Extension by one of $1273$
+1275, 4750104245, Extension by one, Extension by one of $1274$
+1276, 4750104246, Extension by one, Extension by one of $1275$
+1277, 4750104247, Extension by one, Extension by one of $1276$
+1278, 4750104248, Extension by one, Extension by one of $1277$
+1279, 4750104249, Extension by one, Extension by one of $1278$
+1280, 4750104250, Extension by one, Extension by one of $1279$
+1281, 4750104251, Extension by one, Extension by one of $1280$
+1282, 4750104252, Extension by one, Extension by one of $1281$
+1283, 4750104253, Extension by one, Extension by one of $1282$
+1284, 4750104254, Extension by one, Extension by one of $1283$
+1285, 4750104255, Extension by one, Extension by one of $1284$
+1286, 4750104256, Extension by one, Extension by one of $1285$
+1287, 4750104257, Extension by one, Extension by one of $1286$
+1288, 4750104258, Extension by one, Extension by one of $1287$
+1289, 4750104259, Extension by one, Extension by one of $1288$
+1290, 4750104260, Extension by one, Extension by one of $1289$
+1291, 4750104261, Extension by one, Extension by one of $1290$
+1292, 4750104262, Extension by one, Extension by one of $1291$
+1293, 4750104263, Extension by one, Extension by one of $1292$
+1294, 4750104264, Extension by one, Extension by one of $1293$
+1295, 4750104265, Extension by one, Extension by one of $1294$
+1296, 4750104266, Extension by one, Extension by one of $1295$
+1297, 4750104267, Extension by one, Extension by one of $1296$
+1298, 4750104268, Extension by one, Extension by one of $1297$
+1299, 4750104269, Extension by one, Extension by one of $1298$
+1300, 4750104270, Extension by one, Extension by one of $1299$
+1301, 4750104271, Extension by one, Extension by one of $1300$
+1302, 4750104272, Extension by one, Extension by one of $1301$
+1303, 4750104273, Extension by one, Extension by one of $1302$
+1304, 4750104274, Extension by one, Extension by one of $1303$
+1305, 4750104275, Extension by one, Extension by one of $1304$
+1306, 4750104276, Extension by one, Extension by one of $1305$
+1307, 4750104277, Extension by one, Extension by one of $1306$
+1308, 4750104278, Extension by one, Extension by one of $1307$
+1309, 4750104279, Extension by one, Extension by one of $1308$
+1310, 4750104280, Extension by one, Extension by one of $1309$
+1311, 4750104281, Extension by one, Extension by one of $1310$
+1312, 4750104282, Extension by one, Extension by one of $1311$
+1313, 4750104283, Extension by one, Extension by one of $1312$
+1314, 4750104284, Extension by one, Extension by one of $1313$
+1315, 4750104285, Extension by one, Extension by one of $1314$
+1316, 4750104286, Extension by one, Extension by one of $1315$
+1317, 4750104287, Extension by one, Extension by one of $1316$
+1318, 4750104288, Extension by one, Extension by one of $1317$
+1319, 4750104289, Extension by one, Extension by one of $1318$
+1320, 4750104290, Extension by one, Extension by one of $1319$
+1321, 4750104291, Extension by one, Extension by one of $1320$
+1322, 4750104292, Extension by one, Extension by one of $1321$
+1323, 4750104293, Extension by one, Extension by one of $1322$
+1324, 4750104294, Extension by one, Extension by one of $1323$
+1325, 4750104295, Extension by one, Extension by one of $1324$
+1326, 4750104296, Extension by one, Extension by one of $1325$
+1327, 4750104305, Additive, Add($56$,$1271$)
+1328, 4750104306, Additive, Add($56$,$1272$)
+1329, 4750104307, Additive, Add($56$,$1273$)
+1330, 4750104308, Additive, Add($56$,$1274$)
+1331, 4750104309, Additive, Add($56$,$1275$)
+1332, 4750104310, Additive, Add($56$,$1276$)
+1333, 6321363049, Reed-Solomon, RS($43^{1}$,$6$,$31$)
+1334, 6321363050, Extension by one, Extension by one of $1333$
+1335, 6321363051, Extension by one, Extension by one of $1334$
+1336, 6321363052, Extension by one, Extension by one of $1335$
+1337, 6321363053, Extension by one, Extension by one of $1336$
+1338, 6321363054, Extension by one, Extension by one of $1337$
+1339, 6321363055, Extension by one, Extension by one of $1338$
+1340, 6321363056, Extension by one, Extension by one of $1339$
+1341, 6321363057, Extension by one, Extension by one of $1340$
+1342, 6321363058, Extension by one, Extension by one of $1341$
+1343, 6321363059, Extension by one, Extension by one of $1342$
+1344, 6321363060, Extension by one, Extension by one of $1343$
+1345, 6321363061, Extension by one, Extension by one of $1344$
+1346, 6321363062, Extension by one, Extension by one of $1345$
+1347, 6321363063, Extension by one, Extension by one of $1346$
+1348, 6321363064, Extension by one, Extension by one of $1347$
+1349, 6321363065, Extension by one, Extension by one of $1348$
+1350, 6321363066, Extension by one, Extension by one of $1349$
+1351, 6321363067, Extension by one, Extension by one of $1350$
+1352, 6321363068, Extension by one, Extension by one of $1351$
+1353, 6321363069, Extension by one, Extension by one of $1352$
+1354, 6321363070, Extension by one, Extension by one of $1353$
+1355, 6321363071, Extension by one, Extension by one of $1354$
+1356, 6321363072, Extension by one, Extension by one of $1355$
+1357, 6321363073, Extension by one, Extension by one of $1356$
+1358, 6321363074, Extension by one, Extension by one of $1357$
+1359, 6321363075, Extension by one, Extension by one of $1358$
+1360, 6321363076, Extension by one, Extension by one of $1359$
+1361, 6321363077, Extension by one, Extension by one of $1360$
+1362, 6321363078, Extension by one, Extension by one of $1361$
+1363, 6321363079, Extension by one, Extension by one of $1362$
+1364, 6321363080, Extension by one, Extension by one of $1363$
+1365, 6321363081, Extension by one, Extension by one of $1364$
+1366, 6321363082, Extension by one, Extension by one of $1365$
+1367, 6321363083, Extension by one, Extension by one of $1366$
+1368, 6321363084, Extension by one, Extension by one of $1367$
+1369, 94931877133, Reed-Solomon, RS($37^{1}$,$7$,$37$)
+1370, 94931877134, Extension by one, Extension by one of $1369$
+1371, 94931877135, Extension by one, Extension by one of $1370$
+1372, 94931877136, Extension by one, Extension by one of $1371$
+1373, 94931877137, Extension by one, Extension by one of $1372$
+1374, 94931877138, Extension by one, Extension by one of $1373$
+1375, 94931877139, Extension by one, Extension by one of $1374$
+1376, 94931877140, Extension by one, Extension by one of $1375$
+1377, 94931877141, Extension by one, Extension by one of $1376$
+1378, 94931877142, Extension by one, Extension by one of $1377$
+1379, 94931877143, Extension by one, Extension by one of $1378$
+1380, 94931877144, Extension by one, Extension by one of $1379$
+1381, 94931877145, Extension by one, Extension by one of $1380$
+1382, 94931877146, Extension by one, Extension by one of $1381$
+1383, 94931877147, Extension by one, Extension by one of $1382$
+1384, 94931877148, Extension by one, Extension by one of $1383$
+1385, 94931877149, Extension by one, Extension by one of $1384$
+1386, 94931877150, Extension by one, Extension by one of $1385$
+1387, 94931877151, Extension by one, Extension by one of $1386$
+1388, 94931877152, Extension by one, Extension by one of $1387$
+1389, 94931877153, Extension by one, Extension by one of $1388$
+1390, 94931877154, Extension by one, Extension by one of $1389$
+1391, 94931877155, Extension by one, Extension by one of $1390$
+1392, 94931877156, Extension by one, Extension by one of $1391$
+1393, 94931877157, Extension by one, Extension by one of $1392$
+1394, 94931877158, Extension by one, Extension by one of $1393$
+1395, 94931877159, Extension by one, Extension by one of $1394$
+1396, 94931877160, Extension by one, Extension by one of $1395$
+1397, 94931877161, Extension by one, Extension by one of $1396$
+1398, 94931877162, Extension by one, Extension by one of $1397$
+1399, 94931877163, Extension by one, Extension by one of $1398$
+1400, 94931877164, Extension by one, Extension by one of $1399$
+1401, 94931877165, Extension by one, Extension by one of $1400$
+1402, 94931877166, Extension by one, Extension by one of $1401$
+1403, 94931877167, Extension by one, Extension by one of $1402$
+1404, 94931877168, Extension by one, Extension by one of $1403$
+1405, 94931877169, Extension by one, Extension by one of $1404$
+1406, 94931877170, Extension by one, Extension by one of $1405$
+1407, 94931877171, Extension by one, Extension by one of $1406$
+1408, 94931877172, Extension by one, Extension by one of $1407$
+1409, 94931877173, Extension by one, Extension by one of $1408$
+1410, 94931877174, Extension by one, Extension by one of $1409$
+1411, 94931877175, Extension by one, Extension by one of $1410$
+1412, 94931877176, Extension by one, Extension by one of $1411$
+1413, 94931877177, Extension by one, Extension by one of $1412$
+1414, 94931877178, Extension by one, Extension by one of $1413$
+1415, 94931877179, Extension by one, Extension by one of $1414$
+1416, 94931877180, Extension by one, Extension by one of $1415$
+1417, 94931877181, Extension by one, Extension by one of $1416$
+1418, 94931877182, Extension by one, Extension by one of $1417$
+1419, 94931877183, Extension by one, Extension by one of $1418$
+1420, 94931877184, Extension by one, Extension by one of $1419$
+1421, 94931877185, Extension by one, Extension by one of $1420$
+1422, 94931877186, Extension by one, Extension by one of $1421$
+1423, 94931877187, Extension by one, Extension by one of $1422$
+1424, 94931877188, Extension by one, Extension by one of $1423$
+1425, 94931877197, Additive, Add($56$,$1369$)
+1426, 94931877198, Additive, Add($56$,$1370$)
+1427, 94931877199, Additive, Add($56$,$1371$)
+1428, 94931877200, Additive, Add($56$,$1372$)
+1429, 94931877201, Additive, Add($56$,$1373$)
+1430, 94931877202, Additive, Add($56$,$1374$)
+1431, 94931877203, Additive, Add($56$,$1375$)
+1432, 94931877214, Additive, Add($63$,$1369$)
+1433, 94931877215, Additive, Add($63$,$1370$)
+1434, 94931877216, Additive, Add($63$,$1371$)
+1435, 94931877217, Additive, Add($63$,$1372$)
+1436, 94931877218, Additive, Add($63$,$1373$)
+1437, 94931877219, Additive, Add($63$,$1374$)
+1438, 94931877220, Additive, Add($63$,$1375$)
+1439, 94931877221, Additive, Add($63$,$1376$)
+1440, 94931877222, Additive, Add($63$,$1377$)
+1441, 94931877223, Additive, Add($63$,$1378$)
+1442, 94931877224, Additive, Add($63$,$1379$)
+1443, 94931877225, Additive, Add($63$,$1380$)
+1444, 94931877226, Additive, Add($63$,$1381$)
+1445, 94931877227, Additive, Add($63$,$1382$)
+1446, 94931877254, Additive, Add($77$,$1369$)
+1447, 94931877255, Additive, Add($77$,$1370$)
+1448, 94931877256, Additive, Add($77$,$1371$)
+1449, 94931877257, Additive, Add($77$,$1372$)
+1450, 94931877258, Additive, Add($77$,$1373$)
+1451, 94931877259, Additive, Add($77$,$1374$)
+1452, 94931877260, Additive, Add($77$,$1375$)
+1453, 94931877261, Additive, Add($77$,$1376$)
+1454, 94931877262, Additive, Add($77$,$1377$)
+1455, 94931877263, Additive, Add($77$,$1378$)
+1456, 94931877264, Additive, Add($77$,$1379$)
+1457, 94931877265, Additive, Add($77$,$1380$)
+1458, 94931877266, Additive, Add($77$,$1381$)
+1459, 94931877267, Additive, Add($77$,$1382$)
+1460, 94931877302, Additive, Add($91$,$1369$)
+1461, 94931877303, Additive, Add($91$,$1370$)
+1462, 94931877304, Additive, Add($91$,$1371$)
+1463, 94931877305, Additive, Add($91$,$1372$)
+1464, 94931877306, Additive, Add($91$,$1373$)
+1465, 94931877307, Additive, Add($91$,$1374$)
+1466, 94931877308, Additive, Add($91$,$1375$)
+1467, 94931877309, Additive, Add($91$,$1376$)
+1468, 94931877310, Additive, Add($91$,$1377$)
+1469, 94931877311, Additive, Add($91$,$1378$)
+1470, 94931877312, Additive, Add($91$,$1379$)
+1471, 94931877313, Additive, Add($91$,$1380$)
+1472, 94931877314, Additive, Add($91$,$1381$)
+1473, 94931877315, Additive, Add($91$,$1382$)
+1474, 94931877316, Additive, Add($91$,$1383$)
+1475, 94931877317, Additive, Add($91$,$1384$)
+1476, 94931877318, Additive, Add($91$,$1385$)
+1477, 94931877319, Additive, Add($91$,$1386$)
+1478, 94931877320, Additive, Add($91$,$1387$)
+1479, 94931877321, Additive, Add($91$,$1388$)
+1480, 94931877322, Additive, Add($91$,$1389$)
+1481, 94931877389, Additive, Add($112$,$1369$)
+1482, 94931877390, Additive, Add($112$,$1370$)
+1483, 94931877391, Additive, Add($112$,$1371$)
+1484, 94931877392, Additive, Add($112$,$1372$)
+1485, 94931877393, Additive, Add($112$,$1373$)
+1486, 94931877394, Additive, Add($112$,$1374$)
+1487, 94931877395, Additive, Add($112$,$1375$)
+1488, 94931877422, Additive, Add($119$,$1369$)
+1489, 94931877423, Additive, Add($119$,$1370$)
+1490, 94931877424, Additive, Add($119$,$1371$)
+1491, 94931877425, Additive, Add($119$,$1372$)
+1492, 94931877426, Additive, Add($119$,$1373$)
+1493, 94931877427, Additive, Add($119$,$1374$)
+1494, 94931877428, Additive, Add($119$,$1375$)
+1495, 94931877429, Additive, Add($119$,$1376$)
+1496, 94931877430, Additive, Add($119$,$1377$)
+1497, 94931877431, Additive, Add($119$,$1378$)
+1498, 94931877432, Additive, Add($119$,$1379$)
+1499, 94931877433, Additive, Add($119$,$1380$)
+1500, 94931877434, Additive, Add($119$,$1381$)
+1501, 94931877435, Additive, Add($119$,$1382$)
+1502, 94931877494, Additive, Add($133$,$1369$)
+1503, 94931877495, Additive, Add($133$,$1370$)
+1504, 94931877496, Additive, Add($133$,$1371$)
+1505, 94931877497, Additive, Add($133$,$1372$)
+1506, 94931877498, Additive, Add($133$,$1373$)
+1507, 94931877499, Additive, Add($133$,$1374$)
+1508, 94931877500, Additive, Add($133$,$1375$)
+1509, 94931877501, Additive, Add($133$,$1376$)
+1510, 94931877502, Additive, Add($133$,$1377$)
+1511, 94931877503, Additive, Add($133$,$1378$)
+1512, 94931877504, Additive, Add($133$,$1379$)
+1513, 94931877505, Additive, Add($133$,$1380$)
+1514, 94931877506, Additive, Add($133$,$1381$)
+1515, 94931877507, Additive, Add($133$,$1382$)
+1516, 94931877508, Additive, Add($133$,$1383$)
+1517, 194754273881, Reed-Solomon, RS($41^{1}$,$7$,$37$)
+1518, 194754273882, Extension by one, Extension by one of $1517$
+1519, 194754273883, Extension by one, Extension by one of $1518$
+1520, 194754273884, Extension by one, Extension by one of $1519$
+1521, 194754273885, Extension by one, Extension by one of $1520$
+1522, 194754273886, Extension by one, Extension by one of $1521$
+1523, 194754273887, Extension by one, Extension by one of $1522$
+1524, 194754273888, Extension by one, Extension by one of $1523$
+1525, 194754273889, Extension by one, Extension by one of $1524$
+1526, 194754273890, Extension by one, Extension by one of $1525$
+1527, 194754273891, Extension by one, Extension by one of $1526$
+1528, 194754273892, Extension by one, Extension by one of $1527$
+1529, 194754273893, Extension by one, Extension by one of $1528$
+1530, 194754273894, Extension by one, Extension by one of $1529$
+1531, 194754273895, Extension by one, Extension by one of $1530$
+1532, 194754273896, Extension by one, Extension by one of $1531$
+1533, 194754273897, Extension by one, Extension by one of $1532$
+1534, 194754273898, Extension by one, Extension by one of $1533$
+1535, 194754273899, Extension by one, Extension by one of $1534$
+1536, 194754273900, Extension by one, Extension by one of $1535$
+1537, 194754273901, Extension by one, Extension by one of $1536$
+1538, 194754273902, Extension by one, Extension by one of $1537$
+1539, 194754273903, Extension by one, Extension by one of $1538$
+1540, 194754273904, Extension by one, Extension by one of $1539$
+1541, 194754273905, Extension by one, Extension by one of $1540$
+1542, 194754273906, Extension by one, Extension by one of $1541$
+1543, 194754273907, Extension by one, Extension by one of $1542$
+1544, 194754273908, Extension by one, Extension by one of $1543$
+1545, 194754273909, Extension by one, Extension by one of $1544$
+1546, 194754273910, Extension by one, Extension by one of $1545$
+1547, 194754273911, Extension by one, Extension by one of $1546$
+1548, 194754273912, Extension by one, Extension by one of $1547$
+1549, 194754273913, Extension by one, Extension by one of $1548$
+1550, 194754273914, Extension by one, Extension by one of $1549$
+1551, 194754273915, Extension by one, Extension by one of $1550$
+1552, 194754273916, Extension by one, Extension by one of $1551$
+1553, 194754273917, Extension by one, Extension by one of $1552$
+1554, 194754273918, Extension by one, Extension by one of $1553$
+1555, 194754273919, Extension by one, Extension by one of $1554$
+1556, 194754273920, Extension by one, Extension by one of $1555$
+1557, 194754273921, Extension by one, Extension by one of $1556$
+1558, 194754273922, Extension by one, Extension by one of $1557$
+1559, 194754273923, Extension by one, Extension by one of $1558$
+1560, 194754273924, Extension by one, Extension by one of $1559$
+1561, 194754273925, Extension by one, Extension by one of $1560$
+1562, 194754273926, Extension by one, Extension by one of $1561$
+1563, 194754273927, Extension by one, Extension by one of $1562$
+1564, 194754273928, Extension by one, Extension by one of $1563$
+1565, 194754273929, Extension by one, Extension by one of $1564$
+1566, 194754273930, Extension by one, Extension by one of $1565$
+1567, 194754273931, Extension by one, Extension by one of $1566$
+1568, 194754273932, Extension by one, Extension by one of $1567$
+1569, 194754273933, Extension by one, Extension by one of $1568$
+1570, 194754273934, Extension by one, Extension by one of $1569$
+1571, 194754273935, Extension by one, Extension by one of $1570$
+1572, 194754273936, Extension by one, Extension by one of $1571$
+1573, 194754273945, Additive, Add($56$,$1517$)
+1574, 194754273946, Additive, Add($56$,$1518$)
+1575, 194754273947, Additive, Add($56$,$1519$)
+1576, 194754273948, Additive, Add($56$,$1520$)
+1577, 194754273949, Additive, Add($56$,$1521$)
+1578, 194754273950, Additive, Add($56$,$1522$)
+1579, 194754273951, Additive, Add($56$,$1523$)
+1580, 194754273962, Additive, Add($63$,$1517$)
+1581, 194754273963, Additive, Add($63$,$1518$)
+1582, 194754273964, Additive, Add($63$,$1519$)
+1583, 194754273965, Additive, Add($63$,$1520$)
+1584, 194754273966, Additive, Add($63$,$1521$)
+1585, 194754273967, Additive, Add($63$,$1522$)
+1586, 194754273968, Additive, Add($63$,$1523$)
+1587, 194754273969, Additive, Add($63$,$1524$)
+1588, 194754273970, Additive, Add($63$,$1525$)
+1589, 194754273971, Additive, Add($63$,$1526$)
+1590, 194754273972, Additive, Add($63$,$1527$)
+1591, 271818611107, Reed-Solomon, RS($43^{1}$,$7$,$37$)
+1592, 271818611108, Extension by one, Extension by one of $1591$
+1593, 271818611109, Extension by one, Extension by one of $1592$
+1594, 271818611110, Extension by one, Extension by one of $1593$
+1595, 271818611111, Extension by one, Extension by one of $1594$
+1596, 271818611112, Extension by one, Extension by one of $1595$
+1597, 271818611113, Extension by one, Extension by one of $1596$
+1598, 271818611114, Extension by one, Extension by one of $1597$
+1599, 271818611115, Extension by one, Extension by one of $1598$
+1600, 271818611116, Extension by one, Extension by one of $1599$
+1601, 271818611117, Extension by one, Extension by one of $1600$
+1602, 271818611118, Extension by one, Extension by one of $1601$
+1603, 271818611119, Extension by one, Extension by one of $1602$
+1604, 271818611120, Extension by one, Extension by one of $1603$
+1605, 271818611121, Extension by one, Extension by one of $1604$
+1606, 271818611122, Extension by one, Extension by one of $1605$
+1607, 271818611123, Extension by one, Extension by one of $1606$
+1608, 271818611124, Extension by one, Extension by one of $1607$
+1609, 271818611125, Extension by one, Extension by one of $1608$
+1610, 271818611126, Extension by one, Extension by one of $1609$
+1611, 271818611127, Extension by one, Extension by one of $1610$
+1612, 271818611128, Extension by one, Extension by one of $1611$
+1613, 271818611129, Extension by one, Extension by one of $1612$
+1614, 271818611130, Extension by one, Extension by one of $1613$
+1615, 271818611131, Extension by one, Extension by one of $1614$
+1616, 271818611132, Extension by one, Extension by one of $1615$
+1617, 271818611133, Extension by one, Extension by one of $1616$
+1618, 271818611134, Extension by one, Extension by one of $1617$
+1619, 271818611135, Extension by one, Extension by one of $1618$
+1620, 271818611136, Extension by one, Extension by one of $1619$
+1621, 271818611137, Extension by one, Extension by one of $1620$
+1622, 271818611138, Extension by one, Extension by one of $1621$
+1623, 271818611139, Extension by one, Extension by one of $1622$
+1624, 271818611140, Extension by one, Extension by one of $1623$
+1625, 271818611141, Extension by one, Extension by one of $1624$
+1626, 271818611142, Extension by one, Extension by one of $1625$
+1627, 271818611143, Extension by one, Extension by one of $1626$
+1628, 271818611144, Extension by one, Extension by one of $1627$
+1629, 271818611145, Extension by one, Extension by one of $1628$
+1630, 271818611146, Extension by one, Extension by one of $1629$
+1631, 271818611147, Extension by one, Extension by one of $1630$
+1632, 271818611148, Extension by one, Extension by one of $1631$
+1633, 271818611149, Extension by one, Extension by one of $1632$
+1634, 271818611150, Extension by one, Extension by one of $1633$
+1635, 271818611151, Extension by one, Extension by one of $1634$
+1636, 271818611152, Extension by one, Extension by one of $1635$
+1637, 271818611153, Extension by one, Extension by one of $1636$
+1638, 271818611154, Extension by one, Extension by one of $1637$
+1639, 271818611155, Extension by one, Extension by one of $1638$
+1640, 271818611156, Extension by one, Extension by one of $1639$
+1641, 271818611157, Extension by one, Extension by one of $1640$
+1642, 271818611158, Extension by one, Extension by one of $1641$
+1643, 271818611159, Extension by one, Extension by one of $1642$
+1644, 271818611160, Extension by one, Extension by one of $1643$
+1645, 271818611161, Extension by one, Extension by one of $1644$
+1646, 271818611162, Extension by one, Extension by one of $1645$
+1647, 271818611171, Additive, Add($56$,$1591$)
+1648, 271818611172, Additive, Add($56$,$1592$)
+1649, 271818611173, Additive, Add($56$,$1593$)
+1650, 271818611174, Additive, Add($56$,$1594$)
+1651, 271818611175, Additive, Add($56$,$1595$)
+1652, 271818611176, Additive, Add($56$,$1596$)
+1653, 271818611177, Additive, Add($56$,$1597$)
+1654, 271818611188, Additive, Add($63$,$1591$)
+1655, 271818611189, Additive, Add($63$,$1592$)
+1656, 271818611190, Additive, Add($63$,$1593$)
+1657, 271818611191, Additive, Add($63$,$1594$)
+1658, 271818611192, Additive, Add($63$,$1595$)
+1659, 271818611193, Additive, Add($63$,$1596$)
+1660, 271818611194, Additive, Add($63$,$1597$)
+1661, 271818611195, Additive, Add($63$,$1598$)
+1662, 271818611196, Additive, Add($63$,$1599$)
+1663, 271818611197, Additive, Add($63$,$1600$)
+1664, 271818611198, Additive, Add($63$,$1601$)
+1665, 271818611199, Additive, Add($63$,$1602$)
+1666, 271818611200, Additive, Add($63$,$1603$)
+1667, 271818611201, Additive, Add($63$,$1604$)
+1668, 271818611228, Additive, Add($77$,$1591$)
+1669, 271818611229, Additive, Add($77$,$1592$)
+1670, 271818611230, Additive, Add($77$,$1593$)
+1671, 271818611231, Additive, Add($77$,$1594$)
+1672, 271818611232, Additive, Add($77$,$1595$)
+1673, 271818611233, Additive, Add($77$,$1596$)
+1674, 271818611234, Additive, Add($77$,$1597$)
+1675, 271818611235, Additive, Add($77$,$1598$)
+1676, 271818611236, Additive, Add($77$,$1599$)
+1677, 271818611237, Additive, Add($77$,$1600$)
+1678, 271818611238, Additive, Add($77$,$1601$)
+1679, 271818611239, Additive, Add($77$,$1602$)
+1680, 271818611240, Additive, Add($77$,$1603$)
+1681, 271818611241, Additive, Add($77$,$1604$)
+1682, 271818611276, Additive, Add($91$,$1591$)
+1683, 271818611277, Additive, Add($91$,$1592$)
+1684, 271818611278, Additive, Add($91$,$1593$)
+1685, 271818611279, Additive, Add($91$,$1594$)
+1686, 271818611280, Additive, Add($91$,$1595$)
+1687, 271818611281, Additive, Add($91$,$1596$)
+1688, 271818611282, Additive, Add($91$,$1597$)
+1689, 271818611283, Additive, Add($91$,$1598$)
+1690, 271818611284, Additive, Add($91$,$1599$)
+1691, 271818611285, Additive, Add($91$,$1600$)
+1692, 271818611286, Additive, Add($91$,$1601$)
+1693, 271818611287, Additive, Add($91$,$1602$)
+1694, 271818611288, Additive, Add($91$,$1603$)
+1695, 271818611289, Additive, Add($91$,$1604$)
+1696, 271818611290, Additive, Add($91$,$1605$)
+1697, 271818611291, Additive, Add($91$,$1606$)
+1698, 271818611292, Additive, Add($91$,$1607$)
+1699, 271818611293, Additive, Add($91$,$1608$)
+1700, 271818611294, Additive, Add($91$,$1609$)
+1701, 271818611295, Additive, Add($91$,$1610$)
+1702, 271818611296, Additive, Add($91$,$1611$)
+1703, 271818611363, Additive, Add($112$,$1591$)
+1704, 271818611364, Additive, Add($112$,$1592$)
+1705, 271818611365, Additive, Add($112$,$1593$)
+1706, 271818611366, Additive, Add($112$,$1594$)
+1707, 271818611367, Additive, Add($112$,$1595$)
+1708, 271818611368, Additive, Add($112$,$1596$)
+1709, 271818611369, Additive, Add($112$,$1597$)
+1710, 271818611396, Additive, Add($119$,$1591$)
+1711, 271818611397, Additive, Add($119$,$1592$)
+1712, 271818611398, Additive, Add($119$,$1593$)
+1713, 271818611399, Additive, Add($119$,$1594$)
+1714, 271818611400, Additive, Add($119$,$1595$)
+1715, 271818611401, Additive, Add($119$,$1596$)
+1716, 271818611402, Additive, Add($119$,$1597$)
+1717, 271818611403, Additive, Add($119$,$1598$)
+1718, 271818611404, Additive, Add($119$,$1599$)
+1719, 271818611405, Additive, Add($119$,$1600$)
+1720, 271818611406, Additive, Add($119$,$1601$)
+1721, 271818611407, Additive, Add($119$,$1602$)
+1722, 271818611408, Additive, Add($119$,$1603$)
+1723, 271818611409, Additive, Add($119$,$1604$)
+1724, 271818611468, Additive, Add($133$,$1591$)
+1725, 271818611469, Additive, Add($133$,$1592$)
+1726, 271818611470, Additive, Add($133$,$1593$)
+1727, 271818611471, Additive, Add($133$,$1594$)
+1728, 271818611472, Additive, Add($133$,$1595$)
+1729, 271818611473, Additive, Add($133$,$1596$)
+1730, 271818611474, Additive, Add($133$,$1597$)
+1731, 271818611475, Additive, Add($133$,$1598$)
+1732, 271818611476, Additive, Add($133$,$1599$)
+1733, 271818611477, Additive, Add($133$,$1600$)
+1734, 271818611478, Additive, Add($133$,$1601$)
+1735, 271818611479, Additive, Add($133$,$1602$)
+1736, 271818611480, Additive, Add($133$,$1603$)
+1737, 271818611481, Additive, Add($133$,$1604$)
+1738, 271818611482, Additive, Add($133$,$1605$)
+1739, 506623120463, Reed-Solomon, RS($47^{1}$,$7$,$37$)
+1740, 506623120464, Extension by one, Extension by one of $1739$
+1741, 506623120465, Extension by one, Extension by one of $1740$
+1742, 506623120466, Extension by one, Extension by one of $1741$
+1743, 506623120467, Extension by one, Extension by one of $1742$
+1744, 506623120468, Extension by one, Extension by one of $1743$
+1745, 506623120469, Extension by one, Extension by one of $1744$
+1746, 506623120470, Extension by one, Extension by one of $1745$
+1747, 506623120471, Extension by one, Extension by one of $1746$
+1748, 506623120472, Extension by one, Extension by one of $1747$
+1749, 506623120473, Extension by one, Extension by one of $1748$
+1750, 506623120474, Extension by one, Extension by one of $1749$
+1751, 506623120475, Extension by one, Extension by one of $1750$
+1752, 506623120476, Extension by one, Extension by one of $1751$
+1753, 506623120477, Extension by one, Extension by one of $1752$
+1754, 506623120478, Extension by one, Extension by one of $1753$
+1755, 506623120479, Extension by one, Extension by one of $1754$
+1756, 506623120480, Extension by one, Extension by one of $1755$
+1757, 506623120481, Extension by one, Extension by one of $1756$
+1758, 506623120482, Extension by one, Extension by one of $1757$
+1759, 506623120483, Extension by one, Extension by one of $1758$
+1760, 506623120484, Extension by one, Extension by one of $1759$
+1761, 506623120485, Extension by one, Extension by one of $1760$
+1762, 506623120486, Extension by one, Extension by one of $1761$
+1763, 506623120487, Extension by one, Extension by one of $1762$
+1764, 506623120488, Extension by one, Extension by one of $1763$
+1765, 506623120489, Extension by one, Extension by one of $1764$
+1766, 506623120490, Extension by one, Extension by one of $1765$
+1767, 506623120491, Extension by one, Extension by one of $1766$
+1768, 506623120492, Extension by one, Extension by one of $1767$
+1769, 506623120493, Extension by one, Extension by one of $1768$
+1770, 506623120494, Extension by one, Extension by one of $1769$
+1771, 506623120495, Extension by one, Extension by one of $1770$
+1772, 506623120496, Extension by one, Extension by one of $1771$
+1773, 506623120497, Extension by one, Extension by one of $1772$
+1774, 506623120498, Extension by one, Extension by one of $1773$
+1775, 506623120499, Extension by one, Extension by one of $1774$
+1776, 506623120500, Extension by one, Extension by one of $1775$
+1777, 506623120501, Extension by one, Extension by one of $1776$
+1778, 506623120502, Extension by one, Extension by one of $1777$
+1779, 506623120503, Extension by one, Extension by one of $1778$
+1780, 506623120504, Extension by one, Extension by one of $1779$
+1781, 506623120505, Extension by one, Extension by one of $1780$
+1782, 506623120506, Extension by one, Extension by one of $1781$
+1783, 506623120507, Extension by one, Extension by one of $1782$
+1784, 506623120508, Extension by one, Extension by one of $1783$
+1785, 506623120509, Extension by one, Extension by one of $1784$
+1786, 506623120510, Extension by one, Extension by one of $1785$
+1787, 506623120511, Extension by one, Extension by one of $1786$
+1788, 506623120512, Extension by one, Extension by one of $1787$
+1789, 506623120513, Extension by one, Extension by one of $1788$
+1790, 506623120514, Extension by one, Extension by one of $1789$
+1791, 506623120515, Extension by one, Extension by one of $1790$
+1792, 506623120516, Extension by one, Extension by one of $1791$
+1793, 506623120517, Extension by one, Extension by one of $1792$
+1794, 506623120518, Extension by one, Extension by one of $1793$
+1795, 506623120527, Additive, Add($56$,$1739$)
+1796, 506623120528, Additive, Add($56$,$1740$)
+1797, 506623120529, Additive, Add($56$,$1741$)
+1798, 506623120530, Additive, Add($56$,$1742$)
+1799, 506623120531, Additive, Add($56$,$1743$)
+1800, 506623120532, Additive, Add($56$,$1744$)
+1801, 506623120533, Additive, Add($56$,$1745$)
+1802, 506623120544, Additive, Add($63$,$1739$)
+1803, 506623120545, Additive, Add($63$,$1740$)
+1804, 506623120546, Additive, Add($63$,$1741$)
+1805, 506623120547, Additive, Add($63$,$1742$)
+1806, 506623120548, Additive, Add($63$,$1743$)
+1807, 506623120549, Additive, Add($63$,$1744$)
+1808, 506623120550, Additive, Add($63$,$1745$)
+1809, 506623120551, Additive, Add($63$,$1746$)
+1810, 506623120552, Additive, Add($63$,$1747$)
+1811, 506623120553, Additive, Add($63$,$1748$)
+1812, 506623120554, Additive, Add($63$,$1749$)
+1813, 678223072849, Reed-Solomon, RS($7^{2}$,$7$,$37$)
+1814, 678223072850, Extension by one, Extension by one of $1813$
+1815, 678223072851, Extension by one, Extension by one of $1814$
+1816, 678223072852, Extension by one, Extension by one of $1815$
+1817, 678223072853, Extension by one, Extension by one of $1816$
+1818, 678223072854, Extension by one, Extension by one of $1817$
+1819, 678223072855, Extension by one, Extension by one of $1818$
+1820, 678223072856, Extension by one, Extension by one of $1819$
+1821, 678223072857, Extension by one, Extension by one of $1820$
+1822, 678223072858, Extension by one, Extension by one of $1821$
+1823, 678223072859, Extension by one, Extension by one of $1822$
+1824, 678223072860, Extension by one, Extension by one of $1823$
+1825, 678223072861, Extension by one, Extension by one of $1824$
+1826, 678223072862, Extension by one, Extension by one of $1825$
+1827, 678223072863, Extension by one, Extension by one of $1826$
+1828, 678223072864, Extension by one, Extension by one of $1827$
+1829, 678223072865, Extension by one, Extension by one of $1828$
+1830, 678223072866, Extension by one, Extension by one of $1829$
+1831, 678223072867, Extension by one, Extension by one of $1830$
+1832, 678223072868, Extension by one, Extension by one of $1831$
+1833, 678223072869, Extension by one, Extension by one of $1832$
+1834, 678223072870, Extension by one, Extension by one of $1833$
+1835, 678223072871, Extension by one, Extension by one of $1834$
+1836, 678223072872, Extension by one, Extension by one of $1835$
+1837, 678223072873, Extension by one, Extension by one of $1836$
+1838, 678223072874, Extension by one, Extension by one of $1837$
+1839, 678223072875, Extension by one, Extension by one of $1838$
+1840, 678223072876, Extension by one, Extension by one of $1839$
+1841, 678223072877, Extension by one, Extension by one of $1840$
+1842, 678223072878, Extension by one, Extension by one of $1841$
+1843, 678223072879, Extension by one, Extension by one of $1842$
+1844, 678223072880, Extension by one, Extension by one of $1843$
+1845, 678223072881, Extension by one, Extension by one of $1844$
+1846, 678223072882, Extension by one, Extension by one of $1845$
+1847, 678223072883, Extension by one, Extension by one of $1846$
+1848, 678223072884, Extension by one, Extension by one of $1847$
+1849, 10000000000000, Reed-Solomon, RS($43^{1}$,$8$,$43$)
